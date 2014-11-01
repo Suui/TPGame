@@ -459,4 +459,142 @@ LogInit: Rocket: 1
 [2014.11.01-21.25.31:460][478]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Character_AnimBP.Character_AnimBP]
 [2014.11.01-21.25.31:460][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_AnimBP]
 [2014.11.01-21.25.31:843][478]LogSavePackage: Save=366.486023ms
-[2014.11.01-21.25.31:843][478]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_A
+[2014.11.01-21.25.31:843][478]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP_Auto89D90C174461211DD907A87BAAA500804.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Character_AnimBP_Auto8.uasset'
+[2014.11.01-21.25.31:848][478]LogFileHelpers: Auto-saving content packages took 0.425
+[2014.11.01-21.25.47:079][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.25.47:103][288]LogSavePackage: Save=21.183062ms
+[2014.11.01-21.25.47:103][288]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP56F56C804A2C366A73C86589B53164A9.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.25.52:214][678]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A4667A0
+[2014.11.01-21.25.52:214][678]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000033443560
+[2014.11.01-21.25.52:257][678]LogSavePackage: Save=33.035690ms
+[2014.11.01-21.25.52:257][678]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting428B51A24A250B6240A2059F35D11887.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.01-21.27.13:563][ 65]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_35) - call TermArticulated first.
+[2014.11.01-21.28.59:796][670]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.28.59:796][670]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.28.59:796][670]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.30.42:398][163]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.30.42:399][163]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.33.43:571][703]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.33.43:792][703]BlueprintEditorCompileResults: Info [5240.35] Compile of Character_AnimBP successful! [in 10 ms]
+[2014.11.01-21.33.45:148][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.33.45:505][846]LogSavePackage: Save=352.630798ms
+[2014.11.01-21.33.45:505][846]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP319D65CB40B09E700A04D2BBEAD967A3.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.35.41:362][576]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.35.41:490][576]BlueprintEditorCompileResults: Info [5358.14] Compile of Character_AnimBP successful! [in 10 ms]
+[2014.11.01-21.35.41:904][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.35.42:265][612]LogSavePackage: Save=357.070251ms
+[2014.11.01-21.35.42:265][612]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP983F84904DB2E1FD3855BBBCA2D53805.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.38.26:195][980]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.01-21.38.46:246][ 90]LogRenderer:Warning: Reallocating scene render targets to support 1616x912.
+[2014.11.01-21.39.00:723][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:724][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:727][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:727][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:728][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:729][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:729][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:730][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:731][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:731][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:732][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.00:733][406]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.09:676][395]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.09:693][397]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.09:693][397]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.09:710][399]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.09:718][400]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.09:718][400]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.10:044][439]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:777][986]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:794][988]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:802][989]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:810][990]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:811][990]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:818][991]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:827][992]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:836][993]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:860][996]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.14:877][998]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.39.42:642][185]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.11.01-21.40.50:511][535]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.11.01-21.42.44:109][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.01-21.42.44:464][833]LogSavePackage: Save=353.348328ms
+[2014.11.01-21.42.44:464][833]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter1D9327674832C9F3481CF9A697BD7764.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.01-21.42.45:443][912]BlueprintLog: New page: Compile MyCharacter
+[2014.11.01-21.42.45:601][912]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.11.01-21.42.45:636][912]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000037FAEDE0
+[2014.11.01-21.42.45:636][912]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000037F78E00
+[2014.11.01-21.42.45:680][912]BlueprintEditorCompileResults: Info [5782.24] Compile of MyCharacter successful! [in 61 ms]
+[2014.11.01-21.43.58:445][923]BlueprintLog: New page: Compile MyCharacter
+[2014.11.01-21.43.58:637][923]BlueprintEditorCompileResults: Info [5855.24] Compile of MyCharacter successful! [in 60 ms]
+[2014.11.01-21.43.59:093][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.01-21.43.59:442][955]LogSavePackage: Save=345.511749ms
+[2014.11.01-21.43.59:442][955]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter3BA8410D4ACC2B8C40A71E8252D0AEF8.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.01-21.44.13:399][ 26]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.11.01-21.47.22:928][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:928][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:929][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:930][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:930][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:931][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:932][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:932][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:933][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:933][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.22:937][785]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:099][130]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:125][133]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:142][135]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:159][137]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:176][139]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:194][141]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:384][163]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.26:401][165]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.43:425][118]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.43:521][129]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.43:555][133]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.43:599][138]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.43:625][141]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.47.45:331][336]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.01:251][948]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.01:360][961]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.21:865][284]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.21:918][290]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.21:988][298]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.21:997][299]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.24:711][515]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.48.31:936][ 33]LogSavePackage: Save=33.815392ms
+[2014.11.01-21.48.31:936][ 33]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting_Auto9C66FC3EB42F4297295AD899D3A64F327.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/StarterContent/Advanced_Lighting_Auto9.umap'
+[2014.11.01-21.48.31:943][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.113
+[2014.11.01-21.48.31:943][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.113
+[2014.11.01-21.48.31:951][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/MyCharacter] ([1] browsable assets)...
+[2014.11.01-21.48.31:971][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/MyCharacter.MyCharacter]
+[2014.11.01-21.48.31:971][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/MyCharacter]
+[2014.11.01-21.48.32:339][ 33]LogSavePackage: Save=349.960449ms
+[2014.11.01-21.48.32:340][ 33]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter_Auto98C385C3E45E0DE940A1506A65AA6F087.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/MyCharacter_Auto9.uasset'
+[2014.11.01-21.48.32:344][ 33]LogFileHelpers: Auto-saving content packages took 0.401
+[2014.11.01-21.49.32:155][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:156][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:159][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:159][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:160][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:161][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:161][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:162][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:162][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:163][695]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:171][696]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.32:171][696]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.56:096][517]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.56:125][517]LogPropertyNode:Warning: UI Min (0.0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.57:183][642]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.57:183][642]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.49.57:184][642]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.04:658][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2014.11.01-21.50.08:174][947]BlueprintLog: New page: Compile MyCharacter
+[2014.11.01-21.50.08:384][947]BlueprintEditorCompileResults: Info [6224.95] Compile of MyCharacter successful! [in 57 ms]
+[2014.11.01-21.50.09:144][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.01-21.50.09:494][ 33]LogSavePackage: Save=345.249481ms
+[2014.11.01-21.50.09:494][ 33]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter0878C25449E59FE08FBED9981594D414.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.01-21.50.17:219][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[20
