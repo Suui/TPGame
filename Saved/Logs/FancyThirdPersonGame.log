@@ -312,4 +312,30 @@ LogInit: Rocket: 1
 [2014.11.01-18.23.58:022][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011EEA0C0
 [2014.11.01-18.23.58:022][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000291C74C0
 [2014.11.01-18.23.58:023][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F249D00
-[2014.11.01-18.23.58:023][907]LogParticles: Destr
+[2014.11.01-18.23.58:023][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012BF4AE0
+[2014.11.01-18.23.58:023][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002BA83BA0
+[2014.11.01-18.23.58:030][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000271259E0
+[2014.11.01-18.23.58:380][907]LogSavePackage: Save=31.739798ms
+[2014.11.01-18.23.58:380][907]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting67108ABE4081895663C5DEA7C2AAF3F3.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.01-18.23.58:399][907]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.346
+[2014.11.01-18.23.58:402][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/HeroTPP_Skeleton" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_Skeleton.uasset" SILENT=true
+[2014.11.01-18.23.58:409][907]LogSavePackage: Save=3.347054ms
+[2014.11.01-18.23.58:409][907]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP_Skeleton8824469B4822D3BABC38AF968518C9A1.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_Skeleton.uasset'
+[2014.11.01-18.23.58:414][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Parent" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Parent.uasset" SILENT=true
+[2014.11.01-18.23.58:422][907]LogSavePackage: Save=6.144204ms
+[2014.11.01-18.23.58:422][907]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_Parent8D1A29A54FC0D021CC8672829BB3E3BA.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Parent.uasset'
+[2014.11.01-19.50.15:750][907]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-19.50.27:312][948]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
+[2014.11.01-19.50.57:004][195]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-19.50.58:794][195]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-19.50.58:969][195]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
+[2014.11.01-19.51.21:357][346]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002CF16520
+[2014.11.01-19.51.21:357][346]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012BF4D60
+[2014.11.01-19.51.21:359][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.036
+[2014.11.01-19.51.21:369][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Idle_Walk_Run] ([1] browsable assets)...
+[2014.11.01-19.51.21:410][346]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Character/Animations/Idle_Walk_Run.Idle_Walk_Run]
+[2014.11.01-19.51.21:410][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Idle_Walk_Run]
+[2014.11.01-19.51.21:809][346]LogSavePackage: Save=372.636108ms
+[2014.11.01-19.51.21:809][346]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Idle_Walk_Run_Auto517B4F9194E5AA6E18BDD7AB9B8AB7F9A.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Animations/Idle_Walk_Run_Auto5.uasset'
+[2014.11.01-19.51.21:822][346]LogFileHelpers: Auto-saving content packages took 0.463
+[2014.11.01-19.51.25:738][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Idle_Walk_Run" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle_Walk_Run.uasset
