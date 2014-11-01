@@ -1,4 +1,4 @@
-﻿Log file open, 11/01/14 00:05:30
+﻿Log file open, 11/01/14 18:19:45
 LogInit:Display: Running engine for game: FancyThirdPersonGame
 LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
 LogInit: API Version: 2326478
@@ -9,1446 +9,307 @@ LogInit: Branch Name: ++depot+UE4-Releases+4.5
 LogInit: Command line: 
 LogInit: Base directory: D:/Epic Games/4.5/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2014.10.31-23.05.30:923][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
-[2014.10.31-23.05.30:949][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2014.10.31-23.05.30:964][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2014.10.31-23.05.30:973][  0]LogInit: Object subsystem initialized
-[2014.10.31-23.05.30:976][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
-[2014.10.31-23.05.30:976][  0]LogConsoleResponse:Warning:   Found in ini file 'D:/Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2014.10.31-23.05.30:976][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480,Value=0.444),(Time=720,Value=0.666),(Time=1080,Value=1.0),(Time=8640,Value=8.0))),ExternalCurve=None)'
-[2014.10.31-23.05.30:976][  0]LogConsoleResponse:Warning:   Found in ini file 'D:/Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2014.10.31-23.05.30:976][  0]LogInit: Selected Device Profile: [Windows]
-[2014.10.31-23.05.30:976][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2014.10.31-23.05.30:980][  0]LogInit: Computer: FANTA-PC
-[2014.10.31-23.05.30:980][  0]LogInit: User: FANTA
-[2014.10.31-23.05.30:982][  0]LogInit: CPU Page size=4096, Cores=4
-[2014.10.31-23.05.30:982][  0]LogInit: High frequency timer resolution =3.233291 MHz
-[2014.10.31-23.05.30:982][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx) Virtual=8192.0GB
-[2014.10.31-23.05.30:982][  0]LogMemory: Platform Memory Stats for Windows
-[2014.10.31-23.05.30:982][  0]LogMemory: Process Physical Memory: 62.48 MB used, 62.48 MB peak
-[2014.10.31-23.05.30:982][  0]LogMemory: Process Virtual Memory: 39.54 MB used, 39.54 MB peak
-[2014.10.31-23.05.30:982][  0]LogMemory: Physical Memory: 7073.64 MB used, 16365.21 MB total
-[2014.10.31-23.05.30:982][  0]LogMemory: Virtual Memory: 273.45 MB used, 8388608.00 MB total
-[2014.10.31-23.05.31:017][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 560 Ti   (Feature Level 11_0)
-[2014.10.31-23.05.31:017][  0]LogD3D11RHI: Adapter has 977MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 2 output[s]
-[2014.10.31-23.05.31:017][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2014.10.31-23.05.31:028][  0]LogRHI: Texture pool is 684 MB (70% of 977 MB)
-[2014.10.31-23.05.31:053][  0]LogD3D11RHI: Async texture creation enabled
-[2014.10.31-23.05.31:281][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2014.10.31-23.05.35:738][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.10.31-23.05.36:108][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.10.31-23.05.36:152][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2014.10.31-23.05.36:195][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/FANTA/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
-[2014.10.31-23.05.36:195][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/FANTA/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
-[2014.10.31-23.05.36:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2014.10.31-23.05.36:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2014.10.31-23.05.36:258][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
-[2014.10.31-23.05.36:269][  0]LogDerivedDataCache: Using Local data cache path C:/Users/FANTA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2014.10.31-23.05.36:420][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2014.10.31-23.05.36:420][  0]LogMeshUtilities: No automatic mesh merging module available
-[2014.10.31-23.05.36:616][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2014.10.31-23.05.36:619][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2014.10.31-23.05.36:777][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2014.10.31-23.05.37:580][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2014.10.31-23.05.37:714][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for D:/Projects/Unreal Engine 4/FancyThirdPersonGame/Binaries/Win64. Error: 0
-[2014.10.31-23.05.37:816][  0]SourceControl: Info Source control is disabled
-[2014.10.31-23.05.37:816][  0]SourceControl: Info Source control is disabled
-[2014.10.31-23.05.37:822][  0]SourceControl: Info Source control is disabled
-[2014.10.31-23.05.37:904][  0]LogObj: 22915 objects as part of root set at end of initial load.
-[2014.10.31-23.05.37:904][  0]LogUObjectAllocator: 4803544 out of 0 bytes used by permanent object pool.
-[2014.10.31-23.05.37:952][  0]LogEngine: Initializing Engine...
-[2014.10.31-23.05.38:070][  0]LogInit: XAudio2 using 'Línea (Steinberg CI2)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
-[2014.10.31-23.05.38:074][  0]LogInit: FAudioDevice initialized.
-[2014.10.31-23.05.38:090][  0]LogAIModule: Creating AISystem for world NewWorld
-[2014.10.31-23.05.38:110][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/FANTA/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
-[2014.10.31-23.05.38:115][  0]LogInit: Texture streaming: Enabled
-[2014.10.31-23.05.38:182][  0]LogInit: Transaction tracking system initialized
-[2014.10.31-23.05.38:249][  0]BlueprintLog: New page: Editor Load
-[2014.10.31-23.05.38:274][  0]LogAssetRegistry: FAssetRegistry took 0.0102 seconds to start up
-[2014.10.31-23.05.38:274][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
-[2014.10.31-23.05.38:656][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.10.31-23.05.38:968][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2014.10.31-23.05.40:260][  0]LogConsoleResponse:Display: 
-[2014.10.31-23.05.40:410][  0]SourceControl: Info Source control is disabled
-[2014.10.31-23.05.40:410][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1
-[2014.10.31-23.05.40:411][  0]LightingResults: New page: Lighting Build
-[2014.10.31-23.05.40:418][  0]MapCheck: New page: Map Check
-[2014.10.31-23.05.40:418][  0]LightingResults: New page: Lighting Build
-[2014.10.31-23.05.40:440][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011A7DA80
-[2014.10.31-23.05.42:299][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2014.10.31-23.05.42:299][  0]LogAIModule: Creating AISystem for world Advanced_Lighting
-[2014.10.31-23.05.42:299][  0]Cmd: MAP CHECKDEP
-[2014.10.31-23.05.42:299][  0]MapCheck: New page: Advanced_Lighting - Nov 1, 2014, 1:05:42 AM
-[2014.10.31-23.05.42:359][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 60.018ms to complete.
-[2014.10.31-23.05.42:359][  0]LogFileHelpers: Loading map 'Advanced_Lighting' took 1.948
-[2014.10.31-23.05.43:177][  0]LogCollectionManager: Loaded 0 collections in 0.000870 seconds
-[2014.10.31-23.05.44:385][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2014.10.31-23.05.44:635][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2014.10.31-23.05.44:707][  0]LogLoad: Full Startup: 15.69 seconds (BP compile: 0.12 seconds)
-[2014.10.31-23.05.45:239][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x912.
-[2014.10.31-23.05.47:607][ 69]LogAssetRegistry: Asset discovery search completed in 9.3427 seconds
-[2014.10.31-23.06.48:723][113]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
-[2014.10.31-23.06.54:908][798]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2014.10.31-23.06.58:395][997]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
-[2014.10.31-23.07.04:829][326]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
-[2014.10.31-23.07.26:854][685]LogFactory: FactoryCreateBinary: StaticMesh with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\HeroTPP.FBX)
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: GlobalSettings, ItemCount : 1
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: AnimationStack, ItemCount : 1
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: AnimationLayer, ItemCount : 1
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: Model, ItemCount : 70
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: NodeAttribute, ItemCount : 68
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: Geometry, ItemCount : 1
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: Material, ItemCount : 1
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: Deformer, ItemCount : 69
-[2014.10.31-23.07.26:982][685]LogFbx: ItemName: Pose, ItemCount : 1
-[2014.10.31-23.12.31:361][685]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\HeroTPP.FBX
-[2014.10.31-23.12.31:409][685]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.12.31:435][685]LogFbx: =================================================
-[2014.10.31-23.12.31:435][685]LogFbx: Dumping Node START [HeroTPP] 
-[2014.10.31-23.12.31:435][685]LogFbx: 	Total Deformer Count 535373136.
-[2014.10.31-23.12.31:435][685]LogFbx: 		[Node 1]  (Type Skin).
-[2014.10.31-23.12.31:435][685]LogFbx: =================================================
-[2014.10.31-23.12.31:435][685]LogFbx: 	Attribute (HeroTPP) Type (4).
-[2014.10.31-23.12.31:435][685]LogFbx: 		[Node Attribute Child 1] HeroTPP (Type Mesh).
-[2014.10.31-23.12.31:435][685]LogFbx: Dumping Node END [HeroTPP]
-[2014.10.31-23.12.31:435][685]LogFbx: =================================================
-[2014.10.31-23.12.31:435][685]LogFbx: Dumping Node START [HeroTPP] 
-[2014.10.31-23.12.31:435][685]LogFbx: 	Total Deformer Count 535372408.
-[2014.10.31-23.12.31:435][685]LogFbx: 		[Node 1]  (Type Skin).
-[2014.10.31-23.12.31:435][685]LogFbx: =================================================
-[2014.10.31-23.12.31:435][685]LogFbx: 	Attribute (HeroTPP) Type (4).
-[2014.10.31-23.12.31:435][685]LogFbx: 		[Node Attribute Child 1] HeroTPP (Type Mesh).
-[2014.10.31-23.12.31:435][685]LogFbx: Dumping Node END [HeroTPP]
-[2014.10.31-23.12.31:436][685]LogFbx: =================================================
-[2014.10.31-23.12.31:436][685]LogFbx: Dumping Node START [HeroTPP] 
-[2014.10.31-23.12.31:436][685]LogFbx: 	Total Deformer Count 535366416.
-[2014.10.31-23.12.31:436][685]LogFbx: 		[Node 1]  (Type Skin).
-[2014.10.31-23.12.31:436][685]LogFbx: =================================================
-[2014.10.31-23.12.31:436][685]LogFbx: 	Attribute (HeroTPP) Type (4).
-[2014.10.31-23.12.31:436][685]LogFbx: 		[Node Attribute Child 1] HeroTPP (Type Mesh).
-[2014.10.31-23.12.31:436][685]LogFbx: Dumping Node END [HeroTPP]
-[2014.10.31-23.12.31:447][685]LogFbx: Valid bind pose for Pose (HeroTPP) - HeroTPP
-[2014.10.31-23.12.31:449][685]LogLinker:Warning: Can't find file '/Game/Character/M_Template_Master'
-[2014.10.31-23.12.31:450][685]LogLinker:Warning: Can't find file '/Game/Character/M_Template_Master'
-[2014.10.31-23.12.31:450][685]LogUObjectGlobals:Warning: Failed to find object 'MaterialInterface /Game/Character/M_Template_Master.M_Template_Master'
-[2014.10.31-23.12.31:488][685]LogMaterial: Missing cached shader map for material M_Template_Master, compiling.
-[2014.10.31-23.12.31:555][685]LogFbx:Warning: Bones digested - 68  Depth of hierarchy - 12
-[2014.10.31-23.12.31:771][685]LogSkeletalMesh: Chunk 0: 3660 rigid vertices, 254 soft vertices, 52 active bones
-[2014.10.31-23.12.31:776][685]LogSkeletalMesh: Section 0: Material=0, Chunk=0, 6118 triangles
-[2014.10.31-23.12.31:803][685]LogLinker:Warning: Can't find file '/Game/Character/HeroTPP_PhysicsAsset'
-[2014.10.31-23.12.31:803][685]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/HeroTPP_PhysicsAsset.HeroTPP_PhysicsAsset'
-[2014.10.31-23.12.31:871][685]LogLinker:Warning: Can't find file '/Game/Character/HeroTPP_Skeleton'
-[2014.10.31-23.12.31:871][685]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/HeroTPP_Skeleton.HeroTPP_Skeleton'
-[2014.10.31-23.12.31:947][685]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2014.10.31-23.12.32:072][685]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
-[2014.10.31-23.12.32:072][685]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
-[2014.10.31-23.12.32:373][686]LogMaterial:Warning: Material /Game/Character/M_Template_Master.M_Template_Master needed to have new flag set bUsedWithSkeletalMesh !
-[2014.10.31-23.12.32:399][686]LogMaterial: Missing cached shader map for material M_Template_Master, compiling.
-[2014.10.31-23.12.32:417][686]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
-[2014.10.31-23.13.16:051][516]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2014.10.31-23.13.45:516][ 25]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_1) - call TermArticulated first.
-[2014.10.31-23.13.56:260][382]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
-[2014.10.31-23.14.31:968][897]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D01E8E0
-[2014.10.31-23.14.31:968][897]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001762D760
-[2014.10.31-23.14.32:037][897]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D01DC60
-[2014.10.31-23.14.32:037][897]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000178085E0
-[2014.10.31-23.14.36:003][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/HeroTPP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP.uasset" SILENT=true
-[2014.10.31-23.14.36:403][897]LogSavePackage: Save=397.042816ms
-[2014.10.31-23.14.36:403][897]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPPC886067145317F7DB31AE2BA4F0FA02C.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP.uasset'
-[2014.10.31-23.14.36:407][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/HeroTPP_PhysicsAsset" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_PhysicsAsset.uasset" SILENT=true
-[2014.10.31-23.14.36:420][897]LogSavePackage: Save=11.766958ms
-[2014.10.31-23.14.36:420][897]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP_PhysicsAssetF03069E04CFF3EE841BB74990A4882CF.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_PhysicsAsset.uasset'
-[2014.10.31-23.14.36:424][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/HeroTPP_Skeleton" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_Skeleton.uasset" SILENT=true
-[2014.10.31-23.14.36:428][897]LogSavePackage: Save=2.839522ms
-[2014.10.31-23.14.36:428][897]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP_Skeleton92CB77024D76EE36F6F9A19877622218.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_Skeleton.uasset'
-[2014.10.31-23.14.36:448][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/M_Template_Master" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/M_Template_Master.uasset" SILENT=true
-[2014.10.31-23.14.36:875][897]LogSavePackage: Save=424.770935ms
-[2014.10.31-23.14.36:875][897]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/M_Template_Master2B99B85B4A4F1F10CB07D197186D5CB8.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/M_Template_Master.uasset'
-[2014.10.31-23.14.37:018][897]LogSavePackage: Save=32.656818ms
-[2014.10.31-23.14.37:018][897]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_LightingAB4E22214247D7C1737D90AB32893925.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
-[2014.10.31-23.14.37:027][897]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.149
-[2014.10.31-23.14.46:012][383]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2014.10.31-23.14.48:282][563]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
-[2014.10.31-23.14.54:376][818]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
-[2014.10.31-23.15.11:778][ 49]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.15.18:300][187]LogFactory: FactoryCreateBinary: StaticMesh with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Idle.FBX)
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: GlobalSettings, ItemCount : 1
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: AnimationStack, ItemCount : 1
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: AnimationLayer, ItemCount : 1
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: Model, ItemCount : 69
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: NodeAttribute, ItemCount : 68
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: AnimationCurveNode, ItemCount : 136
-[2014.10.31-23.15.18:302][187]LogFbx: ItemName: AnimationCurve, ItemCount : 408
-[2014.10.31-23.16.11:007][187]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
-[2014.10.31-23.16.33:859][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Idle.FBX
-[2014.10.31-23.16.33:902][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(3) spine_02
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(4) spine_03
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(5) clavicle_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(6) upperarm_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(7) lowerarm_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(8) hand_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(9) index_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(10) index_02_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(11) index_03_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(12) middle_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(13) middle_02_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(14) middle_03_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(15) pinky_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(16) pinky_02_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(17) pinky_03_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(18) ring_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(19) ring_02_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(20) ring_03_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(21) thumb_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(22) thumb_02_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(23) thumb_03_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(25) upperarm_twist_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(26) clavicle_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(27) upperarm_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(28) lowerarm_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(29) hand_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(30) index_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(31) index_02_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(32) index_03_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(33) middle_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(34) middle_02_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(35) middle_03_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(36) pinky_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(37) pinky_02_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(38) pinky_03_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(39) ring_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(40) ring_02_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(41) ring_03_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(42) thumb_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(43) thumb_02_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(44) thumb_03_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(46) upperarm_twist_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(47) neck_01
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(48) head
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(49) thigh_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(50) calf_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(51) calf_twist_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(52) foot_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(53) ball_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(54) thigh_twist_01_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(55) thigh_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(56) calf_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(57) calf_twist_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(58) foot_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(59) ball_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(60) thigh_twist_01_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(61) ik_foot_root
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(62) ik_foot_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(63) ik_foot_r
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(64) ik_hand_root
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(65) ik_hand_gun
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(66) ik_hand_l
-[2014.10.31-23.16.33:916][187]LogFbx: SortedLinks :(67) ik_hand_r
-[2014.10.31-23.16.33:962][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.34:011][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/Idle'
-[2014.10.31-23.16.34:011][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/Idle.Idle'
-[2014.10.31-23.16.34:459][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Jump_End.FBX)
-[2014.10.31-23.16.34:466][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Jump_End.FBX
-[2014.10.31-23.16.34:494][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(3) spine_02
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(4) spine_03
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(5) clavicle_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(6) upperarm_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(7) lowerarm_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(8) hand_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(9) index_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(10) index_02_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(11) index_03_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(12) middle_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(13) middle_02_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(14) middle_03_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(15) pinky_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(16) pinky_02_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(17) pinky_03_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(18) ring_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(19) ring_02_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(20) ring_03_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(21) thumb_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(22) thumb_02_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(23) thumb_03_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(25) upperarm_twist_01_l
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(26) clavicle_r
-[2014.10.31-23.16.34:497][187]LogFbx: SortedLinks :(27) upperarm_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(28) lowerarm_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(29) hand_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(30) index_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(31) index_02_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(32) index_03_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(33) middle_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(34) middle_02_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(35) middle_03_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(36) pinky_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(37) pinky_02_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(38) pinky_03_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(39) ring_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(40) ring_02_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(41) ring_03_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(42) thumb_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(43) thumb_02_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(44) thumb_03_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(46) upperarm_twist_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(47) neck_01
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(48) head
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(49) thigh_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(50) calf_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(51) calf_twist_01_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(52) foot_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(53) ball_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(54) thigh_twist_01_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(55) thigh_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(56) calf_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(57) calf_twist_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(58) foot_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(59) ball_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(60) thigh_twist_01_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(61) ik_foot_root
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(62) ik_foot_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(63) ik_foot_r
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(64) ik_hand_root
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(65) ik_hand_gun
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(66) ik_hand_l
-[2014.10.31-23.16.34:498][187]LogFbx: SortedLinks :(67) ik_hand_r
-[2014.10.31-23.16.34:499][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.34:501][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/Jump_End'
-[2014.10.31-23.16.34:501][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/Jump_End.Jump_End'
-[2014.10.31-23.16.34:554][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Jump_Loop.FBX)
-[2014.10.31-23.16.34:562][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Jump_Loop.FBX
-[2014.10.31-23.16.34:590][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(3) spine_02
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(4) spine_03
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(5) clavicle_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(6) upperarm_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(7) lowerarm_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(8) hand_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(9) index_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(10) index_02_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(11) index_03_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(12) middle_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(13) middle_02_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(14) middle_03_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(15) pinky_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(16) pinky_02_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(17) pinky_03_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(18) ring_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(19) ring_02_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(20) ring_03_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(21) thumb_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(22) thumb_02_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(23) thumb_03_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(25) upperarm_twist_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(26) clavicle_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(27) upperarm_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(28) lowerarm_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(29) hand_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(30) index_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(31) index_02_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(32) index_03_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(33) middle_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(34) middle_02_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(35) middle_03_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(36) pinky_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(37) pinky_02_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(38) pinky_03_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(39) ring_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(40) ring_02_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(41) ring_03_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(42) thumb_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(43) thumb_02_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(44) thumb_03_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(46) upperarm_twist_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(47) neck_01
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(48) head
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(49) thigh_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(50) calf_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(51) calf_twist_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(52) foot_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(53) ball_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(54) thigh_twist_01_l
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(55) thigh_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(56) calf_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(57) calf_twist_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(58) foot_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(59) ball_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(60) thigh_twist_01_r
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(61) ik_foot_root
-[2014.10.31-23.16.34:593][187]LogFbx: SortedLinks :(62) ik_foot_l
-[2014.10.31-23.16.34:594][187]LogFbx: SortedLinks :(63) ik_foot_r
-[2014.10.31-23.16.34:594][187]LogFbx: SortedLinks :(64) ik_hand_root
-[2014.10.31-23.16.34:594][187]LogFbx: SortedLinks :(65) ik_hand_gun
-[2014.10.31-23.16.34:594][187]LogFbx: SortedLinks :(66) ik_hand_l
-[2014.10.31-23.16.34:594][187]LogFbx: SortedLinks :(67) ik_hand_r
-[2014.10.31-23.16.34:594][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.34:597][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/Jump_Loop'
-[2014.10.31-23.16.34:597][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/Jump_Loop.Jump_Loop'
-[2014.10.31-23.16.34:709][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Jump_Start.FBX)
-[2014.10.31-23.16.34:716][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Jump_Start.FBX
-[2014.10.31-23.16.34:745][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(3) spine_02
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(4) spine_03
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(5) clavicle_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(6) upperarm_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(7) lowerarm_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(8) hand_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(9) index_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(10) index_02_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(11) index_03_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(12) middle_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(13) middle_02_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(14) middle_03_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(15) pinky_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(16) pinky_02_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(17) pinky_03_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(18) ring_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(19) ring_02_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(20) ring_03_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(21) thumb_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(22) thumb_02_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(23) thumb_03_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(25) upperarm_twist_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(26) clavicle_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(27) upperarm_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(28) lowerarm_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(29) hand_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(30) index_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(31) index_02_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(32) index_03_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(33) middle_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(34) middle_02_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(35) middle_03_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(36) pinky_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(37) pinky_02_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(38) pinky_03_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(39) ring_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(40) ring_02_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(41) ring_03_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(42) thumb_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(43) thumb_02_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(44) thumb_03_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(46) upperarm_twist_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(47) neck_01
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(48) head
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(49) thigh_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(50) calf_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(51) calf_twist_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(52) foot_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(53) ball_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(54) thigh_twist_01_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(55) thigh_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(56) calf_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(57) calf_twist_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(58) foot_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(59) ball_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(60) thigh_twist_01_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(61) ik_foot_root
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(62) ik_foot_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(63) ik_foot_r
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(64) ik_hand_root
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(65) ik_hand_gun
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(66) ik_hand_l
-[2014.10.31-23.16.34:748][187]LogFbx: SortedLinks :(67) ik_hand_r
-[2014.10.31-23.16.34:749][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.34:752][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/Jump_Start'
-[2014.10.31-23.16.34:752][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/Jump_Start.Jump_Start'
-[2014.10.31-23.16.34:836][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_End_1.FBX)
-[2014.10.31-23.16.34:843][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_End_1.FBX
-[2014.10.31-23.16.34:876][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(3) coat_l_01
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(4) coat_l_02
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(5) coat_l_03
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(6) coat_l_04
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(7) coat_l_05
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(8) coat_l_06
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(9) coat_l_07
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(10) coat_r_01
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(11) coat_r_02
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(12) coat_r_03
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(13) coat_r_04
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(14) coat_r_05
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(15) coat_r_06
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(16) coat_r_07
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(17) coat_strap_l_01
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(18) coat_strap_l_02
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(19) coat_strap_l_03
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(20) coat_strap_l_04
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(21) coat_strap_l_05
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(22) coat_strap_l_06
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(23) coat_strap_r_01
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(24) coat_strap_r_02
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(25) coat_strap_r_03
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(26) coat_strap_r_04
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(27) coat_strap_r_05
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(28) coat_strap_r_06
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(29) spine_02
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(30) spine_03
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(31) clavicle_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(32) upperarm_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(33) lowerarm_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(34) hand_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(35) index_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(36) index_02_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(37) index_03_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(38) middle_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(39) middle_02_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(40) middle_03_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(41) pinky_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(42) pinky_02_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(43) pinky_03_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(44) ring_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(45) ring_02_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(46) ring_03_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(47) thumb_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(48) thumb_02_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(49) thumb_03_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(51) upperarm_twist_01_l
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(52) clavicle_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(53) upperarm_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(54) lowerarm_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(55) hand_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(56) index_01_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(57) index_02_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(58) index_03_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(59) middle_01_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(60) middle_02_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(61) middle_03_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(62) pinky_01_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(63) pinky_02_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(64) pinky_03_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(65) ring_01_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(66) ring_02_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(67) ring_03_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(68) thumb_01_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(69) thumb_02_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(70) thumb_03_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
-[2014.10.31-23.16.34:880][187]LogFbx: SortedLinks :(72) upperarm_twist_01_r
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(73) neck_01
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(74) head
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(75) thigh_l
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(76) calf_l
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(77) foot_l
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(78) ball_l
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(79) calf_twist_01_l
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(80) thigh_twist_01_l
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(81) thigh_r
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(82) calf_r
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(83) foot_r
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(84) ball_r
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(85) calf_twist_01_r
-[2014.10.31-23.16.34:881][187]LogFbx: SortedLinks :(86) thigh_twist_01_r
-[2014.10.31-23.16.34:882][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.34:884][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/MontageExample_End_1'
-[2014.10.31-23.16.34:884][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/MontageExample_End_1.MontageExample_End_1'
-[2014.10.31-23.16.34:940][187]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset HeroTPP_Skeleton.  Any animation on these bones will not be imported: 
-
- coat_l_01  
-coat_l_02  
-coat_l_03  
-coat_l_04  
-coat_l_05  
-coat_l_06  
-coat_l_07  
-coat_r_01  
-coat_r_02  
-coat_r_03  
-coat_r_04  
-coat_r_05  
-coat_r_06  
-coat_r_07  
-coat_strap_l_01  
-coat_strap_l_02  
-coat_strap_l_03  
-coat_strap_l_04  
-coat_strap_l_05  
-coat_strap_l_06  
-coat_strap_r_01  
-coat_strap_r_02  
-coat_strap_r_03  
-coat_strap_r_04  
-coat_strap_r_05  
-coat_strap_r_06  
- 
-[2014.10.31-23.16.34:948][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_End_2.FBX)
-[2014.10.31-23.16.34:954][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_End_2.FBX
-[2014.10.31-23.16.34:987][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(3) coat_l_01
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(4) coat_l_02
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(5) coat_l_03
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(6) coat_l_04
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(7) coat_l_05
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(8) coat_l_06
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(9) coat_l_07
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(10) coat_r_01
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(11) coat_r_02
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(12) coat_r_03
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(13) coat_r_04
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(14) coat_r_05
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(15) coat_r_06
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(16) coat_r_07
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(17) coat_strap_l_01
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(18) coat_strap_l_02
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(19) coat_strap_l_03
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(20) coat_strap_l_04
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(21) coat_strap_l_05
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(22) coat_strap_l_06
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(23) coat_strap_r_01
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(24) coat_strap_r_02
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(25) coat_strap_r_03
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(26) coat_strap_r_04
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(27) coat_strap_r_05
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(28) coat_strap_r_06
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(29) spine_02
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(30) spine_03
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(31) clavicle_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(32) upperarm_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(33) lowerarm_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(34) hand_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(35) index_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(36) index_02_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(37) index_03_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(38) middle_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(39) middle_02_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(40) middle_03_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(41) pinky_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(42) pinky_02_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(43) pinky_03_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(44) ring_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(45) ring_02_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(46) ring_03_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(47) thumb_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(48) thumb_02_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(49) thumb_03_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(51) upperarm_twist_01_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(52) clavicle_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(53) upperarm_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(54) lowerarm_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(55) hand_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(56) index_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(57) index_02_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(58) index_03_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(59) middle_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(60) middle_02_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(61) middle_03_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(62) pinky_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(63) pinky_02_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(64) pinky_03_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(65) ring_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(66) ring_02_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(67) ring_03_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(68) thumb_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(69) thumb_02_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(70) thumb_03_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(72) upperarm_twist_01_r
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(73) neck_01
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(74) head
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(75) thigh_l
-[2014.10.31-23.16.34:991][187]LogFbx: SortedLinks :(76) calf_l
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(77) foot_l
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(78) ball_l
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(79) calf_twist_01_l
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(80) thigh_twist_01_l
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(81) thigh_r
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(82) calf_r
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(83) foot_r
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(84) ball_r
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(85) calf_twist_01_r
-[2014.10.31-23.16.34:992][187]LogFbx: SortedLinks :(86) thigh_twist_01_r
-[2014.10.31-23.16.34:993][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.34:995][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/MontageExample_End_2'
-[2014.10.31-23.16.34:995][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/MontageExample_End_2.MontageExample_End_2'
-[2014.10.31-23.16.35:052][187]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset HeroTPP_Skeleton.  Any animation on these bones will not be imported: 
-
- coat_l_01  
-coat_l_02  
-coat_l_03  
-coat_l_04  
-coat_l_05  
-coat_l_06  
-coat_l_07  
-coat_r_01  
-coat_r_02  
-coat_r_03  
-coat_r_04  
-coat_r_05  
-coat_r_06  
-coat_r_07  
-coat_strap_l_01  
-coat_strap_l_02  
-coat_strap_l_03  
-coat_strap_l_04  
-coat_strap_l_05  
-coat_strap_l_06  
-coat_strap_r_01  
-coat_strap_r_02  
-coat_strap_r_03  
-coat_strap_r_04  
-coat_strap_r_05  
-coat_strap_r_06  
- 
-[2014.10.31-23.16.35:054][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_Punch_1.FBX)
-[2014.10.31-23.16.35:061][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_Punch_1.FBX
-[2014.10.31-23.16.35:095][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(3) coat_l_01
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(4) coat_l_02
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(5) coat_l_03
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(6) coat_l_04
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(7) coat_l_05
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(8) coat_l_06
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(9) coat_l_07
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(10) coat_r_01
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(11) coat_r_02
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(12) coat_r_03
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(13) coat_r_04
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(14) coat_r_05
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(15) coat_r_06
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(16) coat_r_07
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(17) coat_strap_l_01
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(18) coat_strap_l_02
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(19) coat_strap_l_03
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(20) coat_strap_l_04
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(21) coat_strap_l_05
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(22) coat_strap_l_06
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(23) coat_strap_r_01
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(24) coat_strap_r_02
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(25) coat_strap_r_03
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(26) coat_strap_r_04
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(27) coat_strap_r_05
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(28) coat_strap_r_06
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(29) spine_02
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(30) spine_03
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(31) clavicle_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(32) upperarm_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(33) lowerarm_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(34) hand_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(35) index_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(36) index_02_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(37) index_03_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(38) middle_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(39) middle_02_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(40) middle_03_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(41) pinky_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(42) pinky_02_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(43) pinky_03_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(44) ring_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(45) ring_02_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(46) ring_03_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(47) thumb_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(48) thumb_02_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(49) thumb_03_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(51) upperarm_twist_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(52) clavicle_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(53) upperarm_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(54) lowerarm_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(55) hand_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(56) index_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(57) index_02_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(58) index_03_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(59) middle_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(60) middle_02_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(61) middle_03_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(62) pinky_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(63) pinky_02_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(64) pinky_03_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(65) ring_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(66) ring_02_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(67) ring_03_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(68) thumb_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(69) thumb_02_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(70) thumb_03_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(72) upperarm_twist_01_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(73) neck_01
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(74) head
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(75) thigh_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(76) calf_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(77) foot_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(78) ball_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(79) calf_twist_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(80) thigh_twist_01_l
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(81) thigh_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(82) calf_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(83) foot_r
-[2014.10.31-23.16.35:099][187]LogFbx: SortedLinks :(84) ball_r
-[2014.10.31-23.16.35:100][187]LogFbx: SortedLinks :(85) calf_twist_01_r
-[2014.10.31-23.16.35:100][187]LogFbx: SortedLinks :(86) thigh_twist_01_r
-[2014.10.31-23.16.35:100][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.35:103][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/MontageExample_Punch_1'
-[2014.10.31-23.16.35:103][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/MontageExample_Punch_1.MontageExample_Punch_1'
-[2014.10.31-23.16.35:181][187]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset HeroTPP_Skeleton.  Any animation on these bones will not be imported: 
-
- coat_l_01  
-coat_l_02  
-coat_l_03  
-coat_l_04  
-coat_l_05  
-coat_l_06  
-coat_l_07  
-coat_r_01  
-coat_r_02  
-coat_r_03  
-coat_r_04  
-coat_r_05  
-coat_r_06  
-coat_r_07  
-coat_strap_l_01  
-coat_strap_l_02  
-coat_strap_l_03  
-coat_strap_l_04  
-coat_strap_l_05  
-coat_strap_l_06  
-coat_strap_r_01  
-coat_strap_r_02  
-coat_strap_r_03  
-coat_strap_r_04  
-coat_strap_r_05  
-coat_strap_r_06  
- 
-[2014.10.31-23.16.35:182][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_Punch_2.FBX)
-[2014.10.31-23.16.35:189][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_Punch_2.FBX
-[2014.10.31-23.16.35:222][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(3) coat_l_01
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(4) coat_l_02
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(5) coat_l_03
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(6) coat_l_04
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(7) coat_l_05
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(8) coat_l_06
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(9) coat_l_07
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(10) coat_r_01
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(11) coat_r_02
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(12) coat_r_03
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(13) coat_r_04
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(14) coat_r_05
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(15) coat_r_06
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(16) coat_r_07
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(17) coat_strap_l_01
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(18) coat_strap_l_02
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(19) coat_strap_l_03
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(20) coat_strap_l_04
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(21) coat_strap_l_05
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(22) coat_strap_l_06
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(23) coat_strap_r_01
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(24) coat_strap_r_02
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(25) coat_strap_r_03
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(26) coat_strap_r_04
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(27) coat_strap_r_05
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(28) coat_strap_r_06
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(29) spine_02
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(30) spine_03
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(31) clavicle_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(32) upperarm_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(33) lowerarm_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(34) hand_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(35) index_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(36) index_02_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(37) index_03_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(38) middle_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(39) middle_02_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(40) middle_03_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(41) pinky_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(42) pinky_02_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(43) pinky_03_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(44) ring_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(45) ring_02_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(46) ring_03_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(47) thumb_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(48) thumb_02_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(49) thumb_03_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(51) upperarm_twist_01_l
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(52) clavicle_r
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(53) upperarm_r
-[2014.10.31-23.16.35:226][187]LogFbx: SortedLinks :(54) lowerarm_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(55) hand_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(56) index_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(57) index_02_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(58) index_03_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(59) middle_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(60) middle_02_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(61) middle_03_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(62) pinky_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(63) pinky_02_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(64) pinky_03_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(65) ring_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(66) ring_02_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(67) ring_03_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(68) thumb_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(69) thumb_02_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(70) thumb_03_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(72) upperarm_twist_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(73) neck_01
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(74) head
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(75) thigh_l
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(76) calf_l
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(77) foot_l
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(78) ball_l
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(79) calf_twist_01_l
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(80) thigh_twist_01_l
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(81) thigh_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(82) calf_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(83) foot_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(84) ball_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(85) calf_twist_01_r
-[2014.10.31-23.16.35:227][187]LogFbx: SortedLinks :(86) thigh_twist_01_r
-[2014.10.31-23.16.35:228][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.35:230][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/MontageExample_Punch_2'
-[2014.10.31-23.16.35:230][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/MontageExample_Punch_2.MontageExample_Punch_2'
-[2014.10.31-23.16.35:306][187]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset HeroTPP_Skeleton.  Any animation on these bones will not be imported: 
-
- coat_l_01  
-coat_l_02  
-coat_l_03  
-coat_l_04  
-coat_l_05  
-coat_l_06  
-coat_l_07  
-coat_r_01  
-coat_r_02  
-coat_r_03  
-coat_r_04  
-coat_r_05  
-coat_r_06  
-coat_r_07  
-coat_strap_l_01  
-coat_strap_l_02  
-coat_strap_l_03  
-coat_strap_l_04  
-coat_strap_l_05  
-coat_strap_l_06  
-coat_strap_r_01  
-coat_strap_r_02  
-coat_strap_r_03  
-coat_strap_r_04  
-coat_strap_r_05  
-coat_strap_r_06  
- 
-[2014.10.31-23.16.35:308][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_Start.FBX)
-[2014.10.31-23.16.35:315][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\MontageExample_Start.FBX
-[2014.10.31-23.16.35:347][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(3) coat_l_01
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(4) coat_l_02
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(5) coat_l_03
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(6) coat_l_04
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(7) coat_l_05
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(8) coat_l_06
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(9) coat_l_07
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(10) coat_r_01
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(11) coat_r_02
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(12) coat_r_03
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(13) coat_r_04
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(14) coat_r_05
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(15) coat_r_06
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(16) coat_r_07
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(17) coat_strap_l_01
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(18) coat_strap_l_02
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(19) coat_strap_l_03
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(20) coat_strap_l_04
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(21) coat_strap_l_05
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(22) coat_strap_l_06
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(23) coat_strap_r_01
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(24) coat_strap_r_02
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(25) coat_strap_r_03
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(26) coat_strap_r_04
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(27) coat_strap_r_05
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(28) coat_strap_r_06
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(29) spine_02
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(30) spine_03
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(31) clavicle_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(32) upperarm_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(33) lowerarm_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(34) hand_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(35) index_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(36) index_02_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(37) index_03_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(38) middle_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(39) middle_02_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(40) middle_03_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(41) pinky_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(42) pinky_02_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(43) pinky_03_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(44) ring_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(45) ring_02_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(46) ring_03_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(47) thumb_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(48) thumb_02_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(49) thumb_03_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(50) lowerarm_twist_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(51) upperarm_twist_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(52) clavicle_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(53) upperarm_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(54) lowerarm_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(55) hand_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(56) index_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(57) index_02_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(58) index_03_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(59) middle_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(60) middle_02_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(61) middle_03_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(62) pinky_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(63) pinky_02_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(64) pinky_03_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(65) ring_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(66) ring_02_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(67) ring_03_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(68) thumb_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(69) thumb_02_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(70) thumb_03_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(71) lowerarm_twist_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(72) upperarm_twist_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(73) neck_01
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(74) head
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(75) thigh_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(76) calf_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(77) foot_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(78) ball_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(79) calf_twist_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(80) thigh_twist_01_l
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(81) thigh_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(82) calf_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(83) foot_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(84) ball_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(85) calf_twist_01_r
-[2014.10.31-23.16.35:351][187]LogFbx: SortedLinks :(86) thigh_twist_01_r
-[2014.10.31-23.16.35:352][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.35:354][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/MontageExample_Start'
-[2014.10.31-23.16.35:354][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/MontageExample_Start.MontageExample_Start'
-[2014.10.31-23.16.35:401][187]FBXImport:Warning: Warning The following bones exist in the imported animation, but not in the Skeleton asset HeroTPP_Skeleton.  Any animation on these bones will not be imported: 
-
- coat_l_01  
-coat_l_02  
-coat_l_03  
-coat_l_04  
-coat_l_05  
-coat_l_06  
-coat_l_07  
-coat_r_01  
-coat_r_02  
-coat_r_03  
-coat_r_04  
-coat_r_05  
-coat_r_06  
-coat_r_07  
-coat_strap_l_01  
-coat_strap_l_02  
-coat_strap_l_03  
-coat_strap_l_04  
-coat_strap_l_05  
-coat_strap_l_06  
-coat_strap_r_01  
-coat_strap_r_02  
-coat_strap_r_03  
-coat_strap_r_04  
-coat_strap_r_05  
-coat_strap_r_06  
- 
-[2014.10.31-23.16.35:403][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Run.FBX)
-[2014.10.31-23.16.35:410][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Run.FBX
-[2014.10.31-23.16.35:438][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(3) spine_02
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(4) spine_03
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(5) clavicle_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(6) upperarm_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(7) lowerarm_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(8) hand_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(9) index_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(10) index_02_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(11) index_03_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(12) middle_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(13) middle_02_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(14) middle_03_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(15) pinky_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(16) pinky_02_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(17) pinky_03_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(18) ring_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(19) ring_02_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(20) ring_03_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(21) thumb_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(22) thumb_02_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(23) thumb_03_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(25) upperarm_twist_01_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(26) clavicle_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(27) upperarm_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(28) lowerarm_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(29) hand_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(30) index_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(31) index_02_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(32) index_03_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(33) middle_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(34) middle_02_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(35) middle_03_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(36) pinky_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(37) pinky_02_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(38) pinky_03_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(39) ring_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(40) ring_02_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(41) ring_03_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(42) thumb_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(43) thumb_02_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(44) thumb_03_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(46) upperarm_twist_01_r
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(47) neck_01
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(48) head
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(49) thigh_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(50) calf_l
-[2014.10.31-23.16.35:441][187]LogFbx: SortedLinks :(51) calf_twist_01_l
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(52) foot_l
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(53) ball_l
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(54) thigh_twist_01_l
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(55) thigh_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(56) calf_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(57) calf_twist_01_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(58) foot_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(59) ball_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(60) thigh_twist_01_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(61) ik_foot_root
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(62) ik_foot_l
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(63) ik_foot_r
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(64) ik_hand_root
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(65) ik_hand_gun
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(66) ik_hand_l
-[2014.10.31-23.16.35:442][187]LogFbx: SortedLinks :(67) ik_hand_r
-[2014.10.31-23.16.35:443][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.35:445][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/Run'
-[2014.10.31-23.16.35:445][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/Run.Run'
-[2014.10.31-23.16.35:545][187]LogFactory: FactoryCreateBinary: AnimSequence with FbxFactory (0 0 D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Walk.FBX)
-[2014.10.31-23.16.35:552][187]LogFbx: Loading FBX Scene from D:\Projects\Unreal Engine 4\UE4 Resources\ThidPerson_FBX\Walk.FBX
-[2014.10.31-23.16.35:582][187]LogFbx: FBX Scene Loaded Succesfully
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(0) Root
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(1) pelvis
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(2) spine_01
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(3) spine_02
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(4) spine_03
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(5) clavicle_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(6) upperarm_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(7) lowerarm_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(8) hand_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(9) index_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(10) index_02_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(11) index_03_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(12) middle_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(13) middle_02_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(14) middle_03_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(15) pinky_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(16) pinky_02_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(17) pinky_03_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(18) ring_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(19) ring_02_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(20) ring_03_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(21) thumb_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(22) thumb_02_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(23) thumb_03_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(25) upperarm_twist_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(26) clavicle_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(27) upperarm_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(28) lowerarm_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(29) hand_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(30) index_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(31) index_02_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(32) index_03_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(33) middle_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(34) middle_02_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(35) middle_03_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(36) pinky_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(37) pinky_02_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(38) pinky_03_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(39) ring_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(40) ring_02_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(41) ring_03_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(42) thumb_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(43) thumb_02_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(44) thumb_03_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(46) upperarm_twist_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(47) neck_01
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(48) head
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(49) thigh_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(50) calf_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(51) calf_twist_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(52) foot_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(53) ball_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(54) thigh_twist_01_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(55) thigh_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(56) calf_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(57) calf_twist_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(58) foot_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(59) ball_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(60) thigh_twist_01_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(61) ik_foot_root
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(62) ik_foot_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(63) ik_foot_r
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(64) ik_hand_root
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(65) ik_hand_gun
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(66) ik_hand_l
-[2014.10.31-23.16.35:585][187]LogFbx: SortedLinks :(67) ik_hand_r
-[2014.10.31-23.16.35:586][187]LogFbx: Parsing AnimStack Unreal Matinee Take
-[2014.10.31-23.16.35:589][187]LogLinker:Warning: Can't find file '/Game/Character/Animations/Walk'
-[2014.10.31-23.16.35:589][187]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Character/Animations/Walk.Walk'
-[2014.10.31-23.16.35:755][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
-[2014.10.31-23.16.35:756][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:756][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:756][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:757][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:757][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:757][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:758][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:758][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:758][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:759][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.16.35:759][187]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
-[2014.10.31-23.17.28:960][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Idle" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle.uasset" SILENT=true
-[2014.10.31-23.17.29:309][658]LogSavePackage: Save=346.301636ms
-[2014.10.31-23.17.29:309][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/IdleCF8B7AC2459E089684A6C7BFE18118DA.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle.uasset'
-[2014.10.31-23.17.29:327][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Jump_End" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Jump_End.uasset" SILENT=true
-[2014.10.31-23.17.29:690][658]LogSavePackage: Save=362.311035ms
-[2014.10.31-23.17.29:690][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Jump_EndB89317174364AC24FDF09BB8E647C5C5.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Jump_End.uasset'
-[2014.10.31-23.17.29:707][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Jump_Loop" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Jump_Loop.uasset" SILENT=true
-[2014.10.31-23.17.30:062][658]LogSavePackage: Save=353.549988ms
-[2014.10.31-23.17.30:062][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Jump_LoopFECC24DF46AB993017B1B98D1A2830E4.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Jump_Loop.uasset'
-[2014.10.31-23.17.30:080][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Jump_Start" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Jump_Start.uasset" SILENT=true
-[2014.10.31-23.17.30:428][658]LogSavePackage: Save=347.244354ms
-[2014.10.31-23.17.30:428][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Jump_Start82F74F3E44D7AA6A15B648B6BDB98379.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Jump_Start.uasset'
-[2014.10.31-23.17.30:802][658]LogSavePackage: Save=354.192047ms
-[2014.10.31-23.17.30:802][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MontageExample_End_107F692F34F7C397316180BA8C6F8024B.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/MontageExample_End_1.uasset'
-[2014.10.31-23.17.31:175][658]LogSavePackage: Save=353.541321ms
-[2014.10.31-23.17.31:175][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MontageExample_End_2FBACAE864834D63A06C55C9223AE85D5.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/MontageExample_End_2.uasset'
-[2014.10.31-23.17.31:543][658]LogSavePackage: Save=347.301880ms
-[2014.10.31-23.17.31:543][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MontageExample_Punch_1B28B0CE047CE25A8E52E569FC80964ED.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/MontageExample_Punch_1.uasset'
-[2014.10.31-23.17.31:915][658]LogSavePackage: Save=352.914429ms
-[2014.10.31-23.17.31:915][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MontageExample_Punch_265CE5F34410157ACB6C6B789BE4F1680.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/MontageExample_Punch_2.uasset'
-[2014.10.31-23.17.32:287][658]LogSavePackage: Save=351.739136ms
-[2014.10.31-23.17.32:287][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MontageExample_Start72CF1A3F46AFBB332DB0FBB868B7B244.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/MontageExample_Start.uasset'
-[2014.10.31-23.17.32:305][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Run" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Run.uasset" SILENT=true
-[2014.10.31-23.17.32:662][658]LogSavePackage: Save=354.770111ms
-[2014.10.31-23.17.32:662][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/RunD82809744173C0B39D194DA5A1D43211.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Run.uasset'
-[2014.10.31-23.17.32:681][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Walk" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Walk.uasset" SILENT=true
-[2014.10.31-23.17.33:037][658]LogSavePackage: Save=354.630920ms
-[2014.10.31-23.17.33:037][658]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Walk3CAB2976411B743A9B8F0A868A12CDB0.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Walk.uasset'
-[2014.10.31-23.17.45:636][118]LogSavePackage: Save=29.975651ms
-[2014.10.31-23.17.45:636][118]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting8AC7CF1B4CE8F550BDD1A29FCCE525D5.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
-[2014.10.31-23.22.44:300][357]LogSavePackage: Save=29.336672ms
-[2014.10.31-23.22.44:300][357]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting48EFF6014499387EE2D4479847E4DC85.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
-[2014.10.31-23.22.47:421][513]Cmd: QUIT_EDITOR
-[2014.10.31-23.22.47:740][513]LogExit: Preparing to exit.
-[2014.10.31-23.22.48:782][513]LogExit: Editor shut down
-[2014.10.31-23.22.48:782][513]LogExit: Transaction tracking system shut down
-[2014.10.31-23.22.48:786][513]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000142F7100
-[2014.10.31-23.22.48:786][513]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D01D580
-[2014.10.31-23.22.48:786][513]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D01C180
-[2014.10.31-23.22.48:807][513]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000AF34180
-[2014.10.31-23.22.48:807][513]LogExit: Object subsystem successfully closed.
-[2014.10.31-23.22.48:844][513]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (166)
-[2014.10.31-23.22.48:844][513]LogModuleManager: Shutting down and abandoning module CrashTracker (165)
-[2014.10.31-23.22.48:844][513]LogModuleManager: Shutting down and abandoning module SuperSearch (164)
-[2014.10.31-23.22.48:844][513]LogModuleManager: Shutting down and abandoning module SceneOutliner (163)
-[2014.10.31-23.22.48:844][513]LogModuleManager: Shutting down and abandoning module EditorWidgets (162)
-[2014.10.31-23.22.48:844][513]LogModuleManager: Shutting down and abandoning module CollectionManager (161)
-[2014.10.31-23.22.48:851][513]LogModuleManager: Shutting down and abandoning module StatsViewer (160)
-[2014.10.31-23.22.48:851][513]LogModuleManager: Shutting down and abandoning module FoliageEdit (159)
-[2014.10.31-23.22.48:851][513]LogModuleManager: Shutting down and abandoning module LandscapeEditor (158)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module MeshPaint (157)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module ActorPickerMode (156)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module GeometryMode (155)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module TextureAlignMode (154)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module BspMode (153)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module PlacementMode (152)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module AutomationWorker (151)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module CharacterAI (150)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (149)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module IntroTutorials (148)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (147)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module HardwareTargeting (146)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (145)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (144)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module UndoHistory (143)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (142)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module UserFeedback (141)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module XmlParser (140)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module Blutility (139)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (138)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (137)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (136)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (135)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (134)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (133)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module InputBindingEditor (132)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (131)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module SettingsEditor (130)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module ProjectLauncher (129)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module SessionFrontend (128)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module ProfilerClient (127)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (126)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module DeviceManager (125)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module AutomationController (124)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module AutomationWindow (123)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module Layers (122)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (121)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module DetailCustomizations (120)
-[2014.10.31-23.22.48:852][513]LogModuleManager: Shutting down and abandoning module PackagesDialog (119)
-[2014.10.31-23.22.48:853][513]LogModuleManager: Shutting down and abandoning module AssetRegistry (118)
-[2014.10.31-23.22.48:880][513]LogModuleManager: Shutting down and abandoning module Persona (117)
-[2014.10.31-23.22.48:880][513]LogModuleManager: Shutting down and abandoning module Kismet (116)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module GraphEditor (115)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module ClassViewer (114)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module Toolbox (113)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module ModuleUI (112)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module MovieSceneTools (111)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module OutputLog (110)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module GammaUI (109)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module Documentation (108)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (107)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (106)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module HTTP (105)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module AnalyticsET (104)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module Analytics (103)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module GameplayDebugger (102)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module AIModule (101)
-[2014.10.31-23.22.48:881][513]LogModuleManager: Shutting down and abandoning module ProfilerService (100)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module TaskGraph (99)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module SlateRemote (98)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (97)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (96)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module CableComponent (95)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module MessagingDebugger (94)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (93)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (92)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module PluginsEditor (91)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module EpicSurvey (90)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module DesktopPlatform (89)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (88)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module UObjectPlugin (87)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (86)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module SourceControl (85)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (84)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module BlankPlugin (83)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module SlateReflector (82)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (81)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module HotReload (80)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module MainFrame (79)
-[2014.10.31-23.22.49:014][513]LogModuleManager: Shutting down and abandoning module LevelEditor (78)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module ViewportSnapping (77)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module SmartSnapping (76)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (75)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (74)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module ContentBrowser (73)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module PropertyEditor (72)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module Paper2DEditor (71)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module ScriptPlugin (70)
-[2014.10.31-23.22.49:015][513]LogModuleManager: Shutting down and abandoning module UdpMessaging (69)
-[2014.10.31-23.22.49:116][513]LogModuleManager: Shutting down and abandoning module Paper2D (68)
-[2014.10.31-23.22.49:116][513]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (67)
-[2014.10.31-23.22.49:118][513]LogModuleManager: Shutting down and abandoning module Media (66)
-[2014.10.31-23.22.49:118][513]LogModuleManager: Shutting down and abandoning module WmfMedia (65)
-[2014.10.31-23.22.49:118][513]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
-[2014.10.31-23.22.49:118][513]LogModuleManager: Shutting down and abandoning module FunctionalTesting (63)
-[2014.10.31-23.22.49:118][513]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (62)
-[2014.10.31-23.22.49:118][513]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (61)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module MessageLog (60)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module Sequencer (59)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module AssetTools (58)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module UMGEditor (57)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module UMG (56)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module Slate (55)
-[2014.10.31-23.22.49:119][513]LogModuleManager: Shutting down and abandoning module EditorStyle (54)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module SessionServices (53)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (52)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (51)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module XAudio2 (50)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module Networking (48)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module Core (47)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module KismetCompiler (46)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module PhysXFormats (45)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module MeshUtilities (44)
-[2014.10.31-23.22.49:120][513]LogModuleManager: Shutting down and abandoning module DerivedDataCache (43)
-[2014.10.31-23.22.49:166][513]LogDerivedDataCache: Shutdown
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (42)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (41)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (40)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (39)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (38)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (37)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (36)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (35)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (34)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (33)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Messaging (32)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (31)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (30)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (29)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (28)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module InputCore (19)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module Settings (18)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module ImageWrapper (17)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module OculusRift (14)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (13)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module TextureCompressor (12)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module ShaderCore (11)
-[2014.10.31-23.22.49:166][513]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2014.10.31-23.22.49:167][513]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2014.10.31-23.22.49:168][513]LogExit: Exiting.
-[2014.10.31-23.22.49:178][513]Log file closed, 11/01/14 00:22:49
+[2014.11.01-17.19.45:038][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2014.11.01-17.19.45:064][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2014.11.01-17.19.45:078][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2014.11.01-17.19.45:086][  0]LogInit: Object subsystem initialized
+[2014.11.01-17.19.45:089][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2014.11.01-17.19.45:089][  0]LogConsoleResponse:Warning:   Found in ini file 'D:/Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.01-17.19.45:089][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=720.000000,Value=0.666000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2014.11.01-17.19.45:089][  0]LogConsoleResponse:Warning:   Found in ini file 'D:/Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2014.11.01-17.19.45:090][  0]LogInit: Selected Device Profile: [Windows]
+[2014.11.01-17.19.45:090][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2014.11.01-17.19.45:132][  0]LogInit: Computer: FANTA-PC
+[2014.11.01-17.19.45:132][  0]LogInit: User: FANTA
+[2014.11.01-17.19.45:134][  0]LogInit: CPU Page size=4096, Cores=4
+[2014.11.01-17.19.45:134][  0]LogInit: High frequency timer resolution =3.233291 MHz
+[2014.11.01-17.19.45:134][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx) Virtual=8192.0GB
+[2014.11.01-17.19.45:134][  0]LogMemory: Platform Memory Stats for Windows
+[2014.11.01-17.19.45:134][  0]LogMemory: Process Physical Memory: 64.36 MB used, 64.36 MB peak
+[2014.11.01-17.19.45:134][  0]LogMemory: Process Virtual Memory: 39.53 MB used, 39.53 MB peak
+[2014.11.01-17.19.45:134][  0]LogMemory: Physical Memory: 7107.90 MB used, 16365.21 MB total
+[2014.11.01-17.19.45:134][  0]LogMemory: Virtual Memory: 273.45 MB used, 8388608.00 MB total
+[2014.11.01-17.19.45:155][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 560 Ti   (Feature Level 11_0)
+[2014.11.01-17.19.45:155][  0]LogD3D11RHI: Adapter has 977MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 2 output[s]
+[2014.11.01-17.19.45:155][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2014.11.01-17.19.45:168][  0]LogRHI: Texture pool is 684 MB (70% of 977 MB)
+[2014.11.01-17.19.45:173][  0]LogD3D11RHI: Async texture creation enabled
+[2014.11.01-17.19.45:373][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2014.11.01-17.19.49:810][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.01-17.19.50:159][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.01-17.19.50:202][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2014.11.01-17.19.50:254][  0]LogDerivedDataCache: Loaded boot cache 0.05s 39MB C:/Users/FANTA/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.01-17.19.50:254][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/FANTA/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2014.11.01-17.19.50:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2014.11.01-17.19.50:254][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2014.11.01-17.19.50:321][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2014.11.01-17.19.50:332][  0]LogDerivedDataCache: Using Local data cache path C:/Users/FANTA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2014.11.01-17.19.50:492][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2014.11.01-17.19.50:492][  0]LogMeshUtilities: No automatic mesh merging module available
+[2014.11.01-17.19.50:694][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.01-17.19.50:696][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.01-17.19.50:834][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2014.11.01-17.19.51:486][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2014.11.01-17.19.51:619][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for D:/Projects/Unreal Engine 4/FancyThirdPersonGame/Binaries/Win64. Error: 0
+[2014.11.01-17.19.51:717][  0]SourceControl: Info Source control is disabled
+[2014.11.01-17.19.51:717][  0]SourceControl: Info Source control is disabled
+[2014.11.01-17.19.51:722][  0]SourceControl: Info Source control is disabled
+[2014.11.01-17.19.51:805][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2014.11.01-17.19.51:805][  0]LogUObjectAllocator: 4803544 out of 0 bytes used by permanent object pool.
+[2014.11.01-17.19.51:853][  0]LogEngine: Initializing Engine...
+[2014.11.01-17.19.51:969][  0]LogInit: XAudio2 using 'Línea (Steinberg CI2)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2014.11.01-17.19.51:973][  0]LogInit: FAudioDevice initialized.
+[2014.11.01-17.19.51:988][  0]LogAIModule: Creating AISystem for world NewWorld
+[2014.11.01-17.19.52:008][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/FANTA/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2014.11.01-17.19.52:013][  0]LogInit: Texture streaming: Enabled
+[2014.11.01-17.19.52:051][  0]LogInit: Transaction tracking system initialized
+[2014.11.01-17.19.52:117][  0]BlueprintLog: New page: Editor Load
+[2014.11.01-17.19.52:140][  0]LogAssetRegistry: FAssetRegistry took 0.0099 seconds to start up
+[2014.11.01-17.19.52:140][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2014.11.01-17.19.52:501][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.01-17.19.52:780][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2014.11.01-17.19.52:929][  0]LogConsoleResponse:Display: 
+[2014.11.01-17.19.53:072][  0]SourceControl: Info Source control is disabled
+[2014.11.01-17.19.53:072][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2014.11.01-17.19.53:138][  0]LightingResults: New page: Lighting Build
+[2014.11.01-17.19.53:145][  0]MapCheck: New page: Map Check
+[2014.11.01-17.19.53:145][  0]LightingResults: New page: Lighting Build
+[2014.11.01-17.19.53:166][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011E51A80
+[2014.11.01-17.19.54:934][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2014.11.01-17.19.54:934][  0]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.01-17.19.54:934][  0]Cmd: MAP CHECKDEP
+[2014.11.01-17.19.54:934][  0]MapCheck: New page: Advanced_Lighting - Nov 1, 2014, 7:19:54 PM
+[2014.11.01-17.19.54:995][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 60.66ms to complete.
+[2014.11.01-17.19.54:995][  0]LogFileHelpers: Loading map 'Advanced_Lighting' took 1.923
+[2014.11.01-17.19.55:110][  0]LogCollectionManager: Loaded 0 collections in 0.001136 seconds
+[2014.11.01-17.19.55:300][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2014.11.01-17.19.55:313][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2014.11.01-17.19.55:360][  0]LogLoad: Full Startup: 12.52 seconds (BP compile: 0.15 seconds)
+[2014.11.01-17.19.55:372][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character/Animations'
+[2014.11.01-17.19.55:551][  0]LogRenderer:Warning: Reallocating scene render targets to support 1136x912.
+[2014.11.01-17.19.55:866][  2]LogAssetRegistry: Asset discovery search completed in 3.7363 seconds
+[2014.11.01-17.21.42:096][984]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2014.11.01-17.21.43:110][984]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.22.19:356][865]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.29.55:625][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001EF31C60
+[2014.11.01-17.29.55:625][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D484C20
+[2014.11.01-17.29.55:625][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012BF4180
+[2014.11.01-17.29.55:625][388]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D485080
+[2014.11.01-17.29.55:629][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.058
+[2014.11.01-17.29.55:663][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/HeroTPP_Skeleton] ([1] browsable assets)...
+[2014.11.01-17.29.55:671][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/HeroTPP_Skeleton]
+[2014.11.01-17.29.55:692][388]LogSavePackage: Save=5.395741ms
+[2014.11.01-17.29.55:692][388]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP_Skeleton_Auto1D34DF5A14FB54E37D19638A8863DF456.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/HeroTPP_Skeleton_Auto1.uasset'
+[2014.11.01-17.29.55:699][388]LogFileHelpers: Auto-saving content packages took 0.070
+[2014.11.01-17.54.22:341][591]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.56.46:698][761]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.57.07:024][808]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.57.09:205][ 22]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.57.21:430][120]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-17.58.54:161][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002BA83F60
+[2014.11.01-17.58.54:161][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002BA82FC0
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000026E75800
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000027127B00
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012BF7740
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012BF7380
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000024B0BA60
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000024BA44A0
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A4658A0
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002A9C9DA0
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D530720
+[2014.11.01-17.58.54:162][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001360BEC0
+[2014.11.01-17.58.54:163][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E3F1DA0
+[2014.11.01-17.58.54:163][ 45]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E59E7A0
+[2014.11.01-17.58.54:165][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.032
+[2014.11.01-17.58.54:174][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Run] ([1] browsable assets)...
+[2014.11.01-17.58.54:212][ 45]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/Run.Run]
+[2014.11.01-17.58.54:212][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Run]
+[2014.11.01-17.58.54:598][ 45]LogSavePackage: Save=364.317352ms
+[2014.11.01-17.58.54:598][ 45]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Run_Auto27DB0443F45D4B00B53AE2F975535C883.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Animations/Run_Auto2.uasset'
+[2014.11.01-17.58.54:602][ 45]LogFileHelpers: Auto-saving content packages took 0.437
+[2014.11.01-18.00.33:453][ 37]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-18.00.34:078][ 70]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-18.08.54:843][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002BA81B20
+[2014.11.01-18.08.54:843][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A467600
+[2014.11.01-18.08.54:844][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F24A340
+[2014.11.01-18.08.54:844][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002CF8A980
+[2014.11.01-18.08.54:844][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011EEB060
+[2014.11.01-18.08.54:845][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000019C5E020
+[2014.11.01-18.08.54:845][ 81]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.033
+[2014.11.01-18.08.54:854][ 81]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animations/Run] ([1] browsable assets)...
+[2014.11.01-18.08.54:863][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Run]
+[2014.11.01-18.08.54:883][ 81]LogSavePackage: Save=6.739264ms
+[2014.11.01-18.08.54:883][ 81]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Run_Auto33D9B081140DB0A342B6F55812B9ED361.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Animations/Run_Auto3.uasset'
+[2014.11.01-18.08.54:887][ 81]LogFileHelpers: Auto-saving content packages took 0.042
+[2014.11.01-18.12.50:936][909]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.01-18.13.05:255][454]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.01-18.13.26:373][115]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.13.26:881][115]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_0) Not registered. Aborting.
+[2014.11.01-18.13.27:230][115]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_0) Not registered. Aborting.
+[2014.11.01-18.13.27:230][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2014.11.01-18.13.27:253][115]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.13.29:194][234]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2014.11.01-18.13.29:194][234]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.13.29:194][234]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.13.37:319][ 32]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.13.37:335][ 32]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling.
+[2014.11.01-18.13.38:433][100]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2014.11.01-18.13.38:433][100]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.13.38:433][100]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.14.31:697][906]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.14.31:727][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling.
+[2014.11.01-18.14.33:461][ 38]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2014.11.01-18.14.33:461][ 38]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.14.33:461][ 38]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.15.11:412][658]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.15.11:442][658]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling.
+[2014.11.01-18.15.13:324][785]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2014.11.01-18.15.13:324][785]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.15.13:324][785]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.15.34:037][590]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.15.34:066][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling.
+[2014.11.01-18.15.36:305][794]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2014.11.01-18.15.36:305][794]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.15.36:305][794]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.15.52:876][664]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.15.53:627][715]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 36 instructions
+[2014.11.01-18.15.53:627][715]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.15.53:627][715]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.15.58:750][197]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.15.59:576][257]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2014.11.01-18.15.59:576][257]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.15.59:576][257]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.14:302][664]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.15:221][740]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.16.15:221][740]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.16.15:221][740]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.26:750][849]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.27:723][926]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.16.27:723][926]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.16.27:723][926]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.32:271][325]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.33:126][386]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.16.33:126][386]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.16.33:126][386]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.36:503][716]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.36:578][716]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling.
+[2014.11.01-18.16.37:460][787]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.16.37:460][787]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.16.37:461][787]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.45:171][532]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CustomReflectionVector.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2014.11.01-18.16.47:069][614]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.47:076][614]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.47:141][614]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling.
+[2014.11.01-18.16.48:914][719]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.16.48:914][719]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.16.48:914][719]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.54:577][259]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.16.55:601][353]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.16.55:601][353]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.16.55:601][353]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.16.59:573][726]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.17.00:543][813]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2014.11.01-18.17.00:543][813]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.17.00:543][813]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.17.10:216][716]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.17.11:146][796]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2014.11.01-18.17.11:146][796]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.17.11:146][796]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.17.40:557][706]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.17.43:005][917]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2014.11.01-18.17.43:005][917]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.17.43:005][917]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.17.43:669][970]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.17.44:713][ 60]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2014.11.01-18.17.44:713][ 60]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.17.44:714][ 60]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.05:339][924]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.07:191][ 60]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2014.11.01-18.18.07:191][ 60]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.07:191][ 60]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.09:119][231]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.10:135][319]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.18.10:135][319]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.10:135][319]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.16:339][963]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.17:310][ 42]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2014.11.01-18.18.17:310][ 42]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.17:311][ 42]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.23:335][588]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.24:308][669]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2014.11.01-18.18.24:308][669]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.24:308][669]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.29:955][248]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.30:825][313]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2014.11.01-18.18.30:825][313]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.30:825][313]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.37:540][918]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.38:378][979]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 52 instructions
+[2014.11.01-18.18.38:378][979]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.38:378][979]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.45:359][634]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.46:498][730]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 52 instructions
+[2014.11.01-18.18.46:498][730]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.46:498][730]MaterialEditorStats: Info Texture samplers: 0/16
+[2014.11.01-18.18.55:924][567]LogMaterialEditor: Saving and Compiling material Character_Parent
+[2014.11.01-18.18.57:345][567]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.18.57:398][567]LogMaterial: Missing cached shader map for material Character_Parent, compiling.
+[2014.11.01-18.18.57:414][567]LogMaterial: Missing cached shader map for material Character_Parent, compiling.
+[2014.11.01-18.18.57:472][567]LogMaterial: 0.004073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2014.11.01-18.18.59:102][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Parent" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Parent.uasset" SILENT=true
+[2014.11.01-18.18.59:390][567]LogSavePackage: Save=286.482727ms
+[2014.11.01-18.18.59:390][567]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_Parent3889C3A94BC744FA29FCB1B68D97A5DB.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Parent.uasset'
+[2014.11.01-18.18.59:401][567]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 82 instructions
+[2014.11.01-18.18.59:401][567]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2014.11.01-18.18.59:401][567]MaterialEditorStats: Info Texture samplers: 3/16
+[2014.11.01-18.19.04:246][738]LogSavePackage: Save=35.203449ms
+[2014.11.01-18.19.04:246][738]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting_Auto4FD16849A47E3F6F5062AACA800CE2B60.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/StarterContent/Advanced_Lighting_Auto4.umap'
+[2014.11.01-18.19.04:251][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.095
+[2014.11.01-18.19.04:251][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.095
+[2014.11.01-18.19.13:776][432]LogMaterialEditor: Saving and Compiling material Character_Parent
+[2014.11.01-18.19.15:189][432]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling.
+[2014.11.01-18.19.15:242][432]LogMaterial: Missing cached shader map for material Character_Parent, compiling.
+[2014.11.01-18.19.15:257][432]LogMaterial: Missing cached shader map for material Character_Parent, compiling.
+[2014.11.01-18.19.15:265][432]LogMaterial: 0.001618 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2014.11.01-18.19.16:851][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Parent" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Parent.uasset" SILENT=true
+[2014.11.01-18.19.17:137][432]LogSavePackage: Save=282.984131ms
+[2014.11.01-18.19.17:137][432]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_ParentCCB6BC324B9C936E686F75B2FA880D03.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Parent.uasset'
+[2014.11.01-18.19.23:424][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Run" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Run.uasset" SILENT=true
+[2014.11.01-18.19.23:432][  5]LogSavePackage: Save=5.087696ms
+[2014.11.01-18.19.23:432][  5]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/RunB9756DBE41368E0C2E85EA9D76D43C57.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Run.uasset'
+[2014.11.01-18.19.37:015][591]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.01-18.19.51:083][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_1) Not registered. Aborting.
+[2014.11.01-18.19.51:103][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_1) Not registered. Aborting.
+[2014.11.01-18.19.51:103][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_1) Already registered. Aborting.
+[2014.11.01-18.19.53:688][244]LogRenderer:Warning: Reallocating scene render targets to support 1392x912.
+[2014.11.01-18.21.00:742][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Instace" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset" SILENT=true
+[2014.11.01-18.21.01:016][291]LogSavePackage: Save=272.059021ms
+[2014.11.01-18.21.01:016][291]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_Instace1386BAC7494D05444C1BD5B49873DD2D.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset'
+[2014.11.01-18.21.08:346][482]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2014.11.01-18.21.08:387][482]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-18.21.26:790][ 71]LogMaterial:Warning: Material /Game/Character/Character_Parent.Character_Parent needed to have new flag set bUsedWithSkeletalMesh !
+[2014.11.01-18.21.26:799][ 71]LogMaterial: Missing cached shader map for material Character_Parent, compiling.
+[2014.11.01-18.21.26:823][ 71]LogMaterial: 0.000112 seconds spent updating 1 materials, 1 interfaces, 1 instances, 0 with static permutations.
+[2014.11.01-18.22.11:935][193]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_2) Not registered. Aborting.
+[2014.11.01-18.22.11:952][193]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_2) Not registered. Aborting.
+[2014.11.01-18.22.11:952][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_2) Already registered. Aborting.
+[2014.11.01-18.22.35:796][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Instace" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset" SILENT=true
+[2014.11.01-18.22.36:152][451]LogSavePackage: Save=353.130920ms
+[2014.11.01-18.22.36:153][451]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_Instace543651554050C67E7DC54AA945346528.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset'
+[2014.11.01-18.23.05:621][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_3) Not registered. Aborting.
+[2014.11.01-18.23.05:639][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_3) Not registered. Aborting.
+[2014.11.01-18.23.05:639][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_3) Already registered. Aborting.
+[2014.11.01-18.23.21:365][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Instace" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset" SILENT=true
+[2014.11.01-18.23.21:743][316]LogSavePackage: Save=374.693146ms
+[2014.11.01-18.23.21:743][316]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_InstaceA70562D24019BE535E39ED924B02EE43.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset'
+[2014.11.01-18.23.37:549][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_Instace" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset" SILENT=true
+[2014.11.01-18.23.37:927][979]LogSavePackage: Save=375.384705ms
+[2014.11.01-18.23.37:927][979]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_InstaceDA14816D48F1F14BD9F089BD7931F4F5.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_Instace.uasset'
+[2014.11.01-18.23.48:666][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/HeroTPP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP.uasset" SILENT=true
+[2014.11.01-18.23.49:073][123]LogSavePackage: Save=403.718384ms
+[2014.11.01-18.23.49:073][123]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP79DCC09248F5429B4A6452A4655B3DC8.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP.uasset'
+[2014.11.01-18.23.58:022][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000024BA5B20
+[2014.11.01-18.23.58:022][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011EEA0C0
+[2014.11.01-18.23.58:022][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000291C74C0
+[2014.11.01-18.23.58:023][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F249D00
+[2014.11.01-18.23.58:023][907]LogParticles: Destr
