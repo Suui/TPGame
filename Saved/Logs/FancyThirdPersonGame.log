@@ -338,4 +338,125 @@ LogInit: Rocket: 1
 [2014.11.01-19.51.21:809][346]LogSavePackage: Save=372.636108ms
 [2014.11.01-19.51.21:809][346]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Idle_Walk_Run_Auto517B4F9194E5AA6E18BDD7AB9B8AB7F9A.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Animations/Idle_Walk_Run_Auto5.uasset'
 [2014.11.01-19.51.21:822][346]LogFileHelpers: Auto-saving content packages took 0.463
-[2014.11.01-19.51.25:738][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Idle_Walk_Run" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle_Walk_Run.uasset
+[2014.11.01-19.51.25:738][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Idle_Walk_Run" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle_Walk_Run.uasset" SILENT=true
+[2014.11.01-19.51.26:090][717]LogSavePackage: Save=349.307251ms
+[2014.11.01-19.51.26:090][717]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Idle_Walk_RunD3F581D341AA6BBCEA79659A4AD2B894.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle_Walk_Run.uasset'
+[2014.11.01-19.55.59:020][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Idle_Walk_Run" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle_Walk_Run.uasset" SILENT=true
+[2014.11.01-19.55.59:027][933]LogSavePackage: Save=4.361191ms
+[2014.11.01-19.55.59:028][933]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Idle_Walk_Run46BBCCBF4F5CCF3431194DA511B7D6A7.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/Idle_Walk_Run.uasset'
+[2014.11.01-19.56.30:494][781]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012BF4CC0
+[2014.11.01-19.56.30:508][782]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000031AE6E80
+[2014.11.01-19.56.47:066][943]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2014.11.01-19.56.47:623][966]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000291C6C00
+[2014.11.01-19.56.47:635][967]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002CF174C0
+[2014.11.01-19.59.38:321][751]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.01-19.59.42:617][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-19.59.42:645][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-19.59.49:654][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-19.59.51:031][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-19.59.51:599][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-20.00.01:345][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-20.00.06:927][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-20.00.07:622][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-20.00.09:671][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-20.00.12:078][990]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.01-20.00.12:283][990]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.01-20.00.27:293][566]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_33) - call TermArticulated first.
+[2014.11.01-20.01.17:609][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.037
+[2014.11.01-20.01.17:618][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Character_AnimBP] ([1] browsable assets)...
+[2014.11.01-20.01.17:648][246]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Character_AnimBP.Character_AnimBP]
+[2014.11.01-20.01.17:648][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_AnimBP]
+[2014.11.01-20.01.18:028][246]LogSavePackage: Save=362.853210ms
+[2014.11.01-20.01.18:028][246]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP_Auto68B1FE6B34163F22064418B84BC3DA759.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Character_AnimBP_Auto6.uasset'
+[2014.11.01-20.01.18:033][246]LogFileHelpers: Auto-saving content packages took 0.424
+[2014.11.01-20.04.06:333][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:334][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:414][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:415][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:415][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-20.04.06:415][ 35]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.05.19:985][370]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.05.20:215][370]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2014.11.01-21.05.20:215][370]BlueprintEditorCompileResults: Info [3536.78] Compile of Character_AnimBP successful! [in 1 ms]
+[2014.11.01-21.05.20:954][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.05.21:361][422]LogSavePackage: Save=355.467529ms
+[2014.11.01-21.05.21:361][422]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP4BDE7A01430DD0F7A580018807807A6B.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.08.17:788][974]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.01-21.10.37:818][162]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.10.37:920][162]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2014.11.01-21.10.37:920][162]BlueprintEditorCompileResults: Info [3854.61] Compile of Character_AnimBP successful! [in 2 ms]
+[2014.11.01-21.10.52:103][821]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.10.52:256][821]BlueprintEditorCompileResults: Info [3868.95] Compile of Character_AnimBP successful! [in 15 ms]
+[2014.11.01-21.13.04:532][517]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.13.04:543][517]LogBlueprint:Warning: [compiler] Warning  Idle_Walk_Run to JumpStart  will never be taken, please connect something to  Can Enter Transition 
+[2014.11.01-21.13.04:545][517]LogBlueprint:Warning: [compiler] Warning [4001.33] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 4 ms]
+[2014.11.01-21.13.04:634][517]BlueprintEditorCompileResults:Warning: Warning  Idle_Walk_Run to JumpStart  will never be taken, please connect something to  Can Enter Transition 
+[2014.11.01-21.13.04:634][517]BlueprintEditorCompileResults:Warning: Warning [4001.33] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 4 ms]
+[2014.11.01-21.15.12:126][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:126][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:126][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:126][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:126][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:126][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:127][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:127][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:127][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.12:127][671]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.15.30:816][625]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.036
+[2014.11.01-21.15.30:826][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Character_AnimBP] ([1] browsable assets)...
+[2014.11.01-21.15.30:860][625]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Character_AnimBP.Character_AnimBP]
+[2014.11.01-21.15.30:860][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_AnimBP]
+[2014.11.01-21.15.31:244][625]LogSavePackage: Save=361.197937ms
+[2014.11.01-21.15.31:244][625]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP_Auto769DEC60640B2B537F2319987DA2D0B27.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Character_AnimBP_Auto7.uasset'
+[2014.11.01-21.15.31:248][625]LogFileHelpers: Auto-saving content packages took 0.432
+[2014.11.01-21.16.04:636][731]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.16.04:650][731]LogBlueprint:Warning: [compiler] Warning  JumpStart to JumpLoop  will never be taken, please connect something to  Can Enter Transition 
+[2014.11.01-21.16.04:652][731]LogBlueprint:Warning: [compiler] Warning [4181.43] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 4 ms]
+[2014.11.01-21.16.04:748][731]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2014.11.01-21.16.04:748][731]BlueprintEditorCompileResults:Warning: Warning  JumpStart to JumpLoop  will never be taken, please connect something to  Can Enter Transition 
+[2014.11.01-21.16.04:748][731]BlueprintEditorCompileResults:Warning: Warning [4181.43] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 4 ms]
+[2014.11.01-21.16.06:182][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.16.06:533][884]LogSavePackage: Save=347.633728ms
+[2014.11.01-21.16.06:533][884]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBPEF5B3FFA46A2E74222629CBAF377A266.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.17.20:776][316]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.01-21.19.15:196][796]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.19.15:213][796]LogBlueprint:Warning: [compiler] Warning  JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition 
+[2014.11.01-21.19.15:216][796]LogBlueprint:Warning: [compiler] Warning [4371.99] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 6 ms]
+[2014.11.01-21.19.15:321][796]BlueprintEditorCompileResults:Warning: Warning  JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition 
+[2014.11.01-21.19.15:321][796]BlueprintEditorCompileResults:Warning: Warning [4371.99] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 6 ms]
+[2014.11.01-21.19.21:525][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.19.21:907][526]LogSavePackage: Save=379.151459ms
+[2014.11.01-21.19.21:907][526]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP0164F65840F6FA82128797ADC7D9C7B2.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.21.49:650][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.21.50:052][607]LogSavePackage: Save=398.062836ms
+[2014.11.01-21.21.50:052][607]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP1A88EC3C493E9334BE143FA9989771F8.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.21.50:513][654]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.21.50:662][654]BlueprintEditorCompileResults: Info [4527.31] Compile of Character_AnimBP successful! [in 11 ms]
+[2014.11.01-21.21.51:299][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.01-21.21.51:696][711]LogSavePackage: Save=393.596497ms
+[2014.11.01-21.21.51:696][711]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP70C010954C40FFCC66FB7BAB416FE7B9.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.01-21.22.11:316][142]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.22.11:446][142]BlueprintEditorCompileResults: Info [4548.11] Compile of Character_AnimBP successful! [in 8 ms]
+[2014.11.01-21.23.06:782][584]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.23.06:931][584]BlueprintEditorCompileResults: Info [4603.57] Compile of Character_AnimBP successful! [in 9 ms]
+[2014.11.01-21.24.47:784][576]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.01-21.24.47:910][576]BlueprintEditorCompileResults: Info [4704.57] Compile of Character_AnimBP successful! [in 8 ms]
+[2014.11.01-21.25.31:423][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.040
+[2014.11.01-21.25.31:432][478]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Character_AnimBP] ([1] browsable assets)...
+[2014.11.01-21.25.31:460][478]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Character_AnimBP.Character_AnimBP]
+[2014.11.01-21.25.31:460][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_AnimBP]
+[2014.11.01-21.25.31:843][478]LogSavePackage: Save=366.486023ms
+[2014.11.01-21.25.31:843][478]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_A
