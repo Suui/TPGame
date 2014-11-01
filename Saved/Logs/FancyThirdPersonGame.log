@@ -597,4 +597,35 @@ LogInit: Rocket: 1
 [2014.11.01-21.50.09:494][ 33]LogSavePackage: Save=345.249481ms
 [2014.11.01-21.50.09:494][ 33]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter0878C25449E59FE08FBED9981594D414.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
 [2014.11.01-21.50.17:219][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
-[20
+[2014.11.01-21.50.17:220][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:222][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:223][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:224][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:224][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:225][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:225][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:226][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:226][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:227][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.50.17:228][891]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.01-21.51.22:494][703]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2014.11.01-21.51.22:758][703]LogSavePackage: Save=31.030922ms
+[2014.11.01-21.51.22:758][703]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting663096DE475142F55A5A0087812A03BE.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.01-21.51.22:782][703]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.235
+[2014.11.01-21.58.41:943][ 12]BlueprintLog: New page: Compile MyCharacter
+[2014.11.01-21.58.42:182][ 12]BlueprintEditorCompileResults: Info [6738.72] Compile of MyCharacter successful! [in 57 ms]
+[2014.11.01-21.58.42:634][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.01-21.58.42:992][ 57]LogSavePackage: Save=353.856476ms
+[2014.11.01-21.58.42:992][ 57]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterF7F936954020702A01B8A7AB61BE51E1.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.01-21.58.50:011][825]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
+[2014.11.01-22.01.19:787][247]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.042
+[2014.11.01-22.01.19:797][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/MyCharacter] ([1] browsable assets)...
+[2014.11.01-22.01.19:824][247]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/MyCharacter.MyCharacter]
+[2014.11.01-22.01.19:824][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/MyCharacter]
+[2014.11.01-22.01.20:199][247]LogSavePackage: Save=359.571411ms
+[2014.11.01-22.01.20:199][247]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter_Auto0B4686499420A0D1DEBF6C5874DF54924.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/MyCharacter_Auto0.uasset'
+[2014.11.01-22.01.20:204][247]LogFileHelpers: Auto-saving content packages took 0.417
+[2014.11.01-22.01.21:769][418]BlueprintLog: New page: Compile MyCharacter
+[2014.11.01-22.01.21:924][418]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
+[2014.11.01-22.01.22:035][418]BlueprintEditorCompileResults: Info [6898.57] Compile of MyCharacter successful! [in 88 ms]
+[2014.11.01-22.01.22:942][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILE
