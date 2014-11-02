@@ -628,4 +628,629 @@ LogInit: Rocket: 1
 [2014.11.01-22.01.21:769][418]BlueprintLog: New page: Compile MyCharacter
 [2014.11.01-22.01.21:924][418]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
 [2014.11.01-22.01.22:035][418]BlueprintEditorCompileResults: Info [6898.57] Compile of MyCharacter successful! [in 88 ms]
-[2014.11.01-22.01.22:942][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILE
+[2014.11.01-22.01.22:942][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.01-22.01.23:308][497]LogSavePackage: Save=362.760101ms
+[2014.11.01-22.01.23:308][497]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterC465636E4626C8AA455481A6B36F577C.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.01-22.16.40:085][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.01-22.16.40:112][774]LogSavePackage: Save=23.489689ms
+[2014.11.01-22.16.40:112][774]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterEB952FAD4358D3BC183300B6F8B6719A.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.01-22.16.40:724][846]BlueprintLog: New page: Compile MyCharacter
+[2014.11.01-22.16.40:847][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_8) Not registered. Aborting.
+[2014.11.01-22.16.40:951][846]BlueprintEditorCompileResults: Info [7817.47] Compile of MyCharacter successful! [in 61 ms]
+[2014.11.02-16.50.46:288][374]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2014.11.02-16.51.04:408][222]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2014.11.02-16.51.13:805][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_9) Not registered. Aborting.
+[2014.11.02-16.51.13:968][676]LogSavePackage: Save=34.398697ms
+[2014.11.02-16.51.13:968][676]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting_Auto17F180E29421BCCA65F4A379FD86B0CA0.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/StarterContent/Advanced_Lighting_Auto1.umap'
+[2014.11.02-16.51.13:973][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.168
+[2014.11.02-16.51.13:973][676]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.168
+[2014.11.02-16.51.18:069][876]Cmd: TRANSACTION UNDO
+[2014.11.02-16.51.18:069][876]LogEditorTransaction: Undo Scale Actors
+[2014.11.02-16.52.03:663][370]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2014.11.02-16.52.13:532][512]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2014.11.02-16.52.17:616][684]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.11.02-16.52.19:421][788]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent'
+[2014.11.02-16.52.24:444][232]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.11.02-16.52.30:890][846]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Materials'
+[2014.11.02-16.53.43:987][781]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.11.02-16.53.45:181][841]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.02-16.53.54:408][ 44]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.02-16.54.34:650][962]BlueprintLog: New page: Compile MyFancyGame
+[2014.11.02-16.54.34:699][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_10) Not registered. Aborting.
+[2014.11.02-16.54.34:747][962]BlueprintEditorCompileResults: Info [4889.52] Compile of MyFancyGame successful! [in 0 ms]
+[2014.11.02-16.54.35:428][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyFancyGame" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyFancyGame.uasset" SILENT=true
+[2014.11.02-16.54.35:442][ 41]LogSavePackage: Save=11.109733ms
+[2014.11.02-16.54.35:442][ 41]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyFancyGameD901703F4B5871E8C92FA5BF870B3082.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyFancyGame.uasset'
+[2014.11.02-16.54.41:596][749]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-16.54.41:784][749]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005DE7F7E0
+[2014.11.02-16.54.41:861][749]BlueprintEditorCompileResults: Info [4896.56] Compile of MyCharacter successful! [in 67 ms]
+[2014.11.02-16.54.42:483][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-16.54.42:912][798]LogSavePackage: Save=383.585327ms
+[2014.11.02-16.54.42:912][798]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter1053EF9046CE04690CD2F98D38396E71.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-16.54.46:185][997]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2014.11.02-16.54.46:333][  3]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_11) Not registered. Aborting.
+[2014.11.02-16.54.48:879][  3]LogSavePackage: Save=38.095860ms
+[2014.11.02-16.54.48:879][  3]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting328A9E2A40F666A26714BD9AC78D6137.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.02-16.54.48:905][  3]LogFileHelpers: Saving map 'Advanced_Lighting' took 2.511
+[2014.11.02-16.55.15:418][681]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2014.11.02-16.55.17:325][875]Cmd: UpdateLandscapeSetup
+[2014.11.02-16.55.24:445][342]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.02-16.55.24:445][342]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.02-16.55.24:497][342]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_12) Not registered. Aborting.
+[2014.11.02-16.55.24:529][342]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E5A6FC0
+[2014.11.02-16.55.24:532][342]LogPlayLevel: PIE:  Blueprint regeneration took 86 ms (1 blueprints)
+[2014.11.02-16.55.24:539][342]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 6:55:24 PM)
+[2014.11.02-16.55.24:545][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006468s)
+[2014.11.02-16.55.24:546][342]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2014.11.02-16.55.24:546][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007369s)
+[2014.11.02-16.55.24:670][342]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-16.55.24:679][342]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-16.55.24:680][342]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-17.55.24
+[2014.11.02-16.55.24:729][342]LogWorld: Bringing up level for play took: 0.049359
+[2014.11.02-16.55.24:982][342]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.405
+[2014.11.02-16.55.49:067][716]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F829C60
+[2014.11.02-16.58.10:208][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_13) Not registered. Aborting.
+[2014.11.02-17.00.09:013][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:014][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:016][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:017][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:017][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:018][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:019][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:019][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:020][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:021][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:021][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.09:022][952]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.11:899][253]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.11:957][260]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.11:999][265]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.12:024][268]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.12:066][273]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.12:074][274]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.12:149][283]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:008][386]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:041][390]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:049][391]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:049][391]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:057][392]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:065][393]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:066][393]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:074][394]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:075][394]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:082][395]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:083][395]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:090][396]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:099][397]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:107][398]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:108][398]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:115][399]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:124][400]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:149][403]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.13:157][404]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.00.14:415][493]LogSavePackage: Save=33.090435ms
+[2014.11.02-17.00.14:415][493]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_Lighting43C0F0434F3B1C28C5BCA6ACFB58A186.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.02-17.00.14:438][493]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.246
+[2014.11.02-17.00.14:455][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.00.14:815][493]LogSavePackage: Save=353.822784ms
+[2014.11.02-17.00.14:815][493]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterA82C94A14AF6EDDECA04FC9953DD0E7F.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.00.16:527][661]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.00.16:676][661]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_14) Not registered. Aborting.
+[2014.11.02-17.00.16:769][661]BlueprintEditorCompileResults: Info [5231.48] Compile of MyCharacter successful! [in 73 ms]
+[2014.11.02-17.00.17:775][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.00.18:135][738]LogSavePackage: Save=356.287445ms
+[2014.11.02-17.00.18:135][738]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterA81C564243C23696A37813AD62CFF092.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.00.19:994][848]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.00.19:995][848]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:00:19 PM)
+[2014.11.02-17.00.20:001][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006745s)
+[2014.11.02-17.00.20:002][848]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2014.11.02-17.00.20:002][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007559s)
+[2014.11.02-17.00.20:031][848]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.00.20:033][848]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.00.20:034][848]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.00.20
+[2014.11.02-17.00.20:034][848]LogWorld: Bringing up level for play took: 0.000968
+[2014.11.02-17.00.20:036][848]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.641
+[2014.11.02-17.00.35:283][737]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_15) Not registered. Aborting.
+[2014.11.02-17.00.35:318][737]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000064AE7880
+[2014.11.02-17.00.46:076][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.00.46:440][788]LogSavePackage: Save=359.010071ms
+[2014.11.02-17.00.46:440][788]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterF5ABFE4F48EA021E89CE78B1A3B55B91.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.00.46:726][810]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.00.46:846][810]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_16) Not registered. Aborting.
+[2014.11.02-17.00.46:953][810]BlueprintEditorCompileResults: Info [5261.65] Compile of MyCharacter successful! [in 47 ms]
+[2014.11.02-17.00.49:646][984]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.00.49:646][984]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:00:49 PM)
+[2014.11.02-17.00.49:653][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006596s)
+[2014.11.02-17.00.49:654][984]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2014.11.02-17.00.49:654][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007477s)
+[2014.11.02-17.00.49:683][984]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.00.49:685][984]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.00.49:686][984]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.00.49
+[2014.11.02-17.00.49:686][984]LogWorld: Bringing up level for play took: 0.000880
+[2014.11.02-17.00.49:688][984]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.292
+[2014.11.02-17.01.15:452][460]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_17) Not registered. Aborting.
+[2014.11.02-17.01.15:486][460]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000605B2CA0
+[2014.11.02-17.01.56:432][518]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.01.56:632][518]BlueprintEditorCompileResults: Info [5331.35] Compile of MyCharacter successful! [in 48 ms]
+[2014.11.02-17.01.57:080][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.01.57:438][549]LogSavePackage: Save=354.065247ms
+[2014.11.02-17.01.57:438][549]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterACC6B2C143505C36B396C79760780EF5.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.01.58:984][653]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.01.58:985][653]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:01:58 PM)
+[2014.11.02-17.01.58:992][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007357s)
+[2014.11.02-17.01.58:993][653]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2014.11.02-17.01.58:993][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008299s)
+[2014.11.02-17.01.59:020][653]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.01.59:021][653]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.01.59:022][653]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.01.59
+[2014.11.02-17.01.59:022][653]LogWorld: Bringing up level for play took: 0.001042
+[2014.11.02-17.01.59:025][653]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.373
+[2014.11.02-17.02.05:631][ 32]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_18) Not registered. Aborting.
+[2014.11.02-17.02.05:669][ 32]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000068C80F40
+[2014.11.02-17.02.21:725][686]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.02.21:934][686]BlueprintEditorCompileResults: Info [5356.64] Compile of MyCharacter successful! [in 48 ms]
+[2014.11.02-17.02.22:530][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.02.22:889][734]LogSavePackage: Save=355.100128ms
+[2014.11.02-17.02.22:889][734]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter5DBF1A9440C434BB31ED2FBE016B51DC.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.02.24:304][810]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.02.24:304][810]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:02:24 PM)
+[2014.11.02-17.02.24:311][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006900s)
+[2014.11.02-17.02.24:312][810]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2014.11.02-17.02.24:312][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007721s)
+[2014.11.02-17.02.24:340][810]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.02.24:342][810]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.02.24:343][810]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.02.24
+[2014.11.02-17.02.24:343][810]LogWorld: Bringing up level for play took: 0.000948
+[2014.11.02-17.02.24:345][810]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.947
+[2014.11.02-17.02.32:821][307]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_19) Not registered. Aborting.
+[2014.11.02-17.02.32:855][307]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000068EA6E80
+[2014.11.02-17.03.07:250][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.03.07:618][161]LogSavePackage: Save=363.169586ms
+[2014.11.02-17.03.07:618][161]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterDEA13F3048102C71E6FFAEA4A52D17E1.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.03.08:508][243]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.03.08:626][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_20) Not registered. Aborting.
+[2014.11.02-17.03.08:741][243]BlueprintEditorCompileResults: Info [5403.42] Compile of MyCharacter successful! [in 52 ms]
+[2014.11.02-17.03.11:131][382]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.03.11:131][382]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:03:11 PM)
+[2014.11.02-17.03.11:138][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007038s)
+[2014.11.02-17.03.11:139][382]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2014.11.02-17.03.11:139][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008013s)
+[2014.11.02-17.03.11:168][382]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.03.11:169][382]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.03.11:170][382]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.03.11
+[2014.11.02-17.03.11:171][382]LogWorld: Bringing up level for play took: 0.001020
+[2014.11.02-17.03.11:173][382]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.227
+[2014.11.02-17.03.13:266][507]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_21) Not registered. Aborting.
+[2014.11.02-17.03.13:300][507]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000689C8C20
+[2014.11.02-17.03.46:529][718]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.03.46:763][718]BlueprintEditorCompileResults: Info [5441.46] Compile of MyCharacter successful! [in 48 ms]
+[2014.11.02-17.03.47:285][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.03.47:648][752]LogSavePackage: Save=357.722504ms
+[2014.11.02-17.03.47:648][752]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterFDBA163B41432E16951ED1A4F5007D1D.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.03.48:797][823]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.03.48:797][823]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:03:48 PM)
+[2014.11.02-17.03.48:804][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006739s)
+[2014.11.02-17.03.48:805][823]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2014.11.02-17.03.48:805][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007495s)
+[2014.11.02-17.03.48:834][823]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.03.48:836][823]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.03.48:837][823]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.03.48
+[2014.11.02-17.03.48:837][823]LogWorld: Bringing up level for play took: 0.001078
+[2014.11.02-17.03.48:840][823]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.561
+[2014.11.02-17.04.02:658][695]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_22) Not registered. Aborting.
+[2014.11.02-17.04.02:696][695]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000006B31ACA0
+[2014.11.02-17.04.07:224][ 39]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.04.07:466][ 39]BlueprintEditorCompileResults: Info [5462.15] Compile of MyCharacter successful! [in 51 ms]
+[2014.11.02-17.04.08:154][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.04.08:524][ 85]LogSavePackage: Save=365.665497ms
+[2014.11.02-17.04.08:524][ 85]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter4C7082BE4C037F6C2A5A54A7F15DA61C.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.04.10:008][173]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.04.10:009][173]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:04:10 PM)
+[2014.11.02-17.04.10:015][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006544s)
+[2014.11.02-17.04.10:016][173]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2014.11.02-17.04.10:016][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007421s)
+[2014.11.02-17.04.10:044][173]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.04.10:045][173]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.04.10:046][173]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.04.10
+[2014.11.02-17.04.10:047][173]LogWorld: Bringing up level for play took: 0.001005
+[2014.11.02-17.04.10:049][173]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.648
+[2014.11.02-17.04.18:257][655]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_23) Not registered. Aborting.
+[2014.11.02-17.04.18:291][655]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000006CCB8FE0
+[2014.11.02-17.05.37:657][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_24) Not registered. Aborting.
+[2014.11.02-17.05.37:723][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.05.38:088][669]LogSavePackage: Save=360.029144ms
+[2014.11.02-17.05.38:088][669]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterDAAE6CDC487EBD5BC8AB2F8ABD0AB36E.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.05.39:201][799]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.05.39:319][799]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_25) Not registered. Aborting.
+[2014.11.02-17.05.39:413][799]BlueprintEditorCompileResults: Info [5554.12] Compile of MyCharacter successful! [in 49 ms]
+[2014.11.02-17.05.40:074][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.05.40:433][866]LogSavePackage: Save=355.199097ms
+[2014.11.02-17.05.40:433][866]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter57EFDA3A4998AFD07FBC53AB803A6EB6.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.05.41:902][957]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.05.41:902][957]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:05:41 PM)
+[2014.11.02-17.05.41:909][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006787s)
+[2014.11.02-17.05.41:910][957]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2014.11.02-17.05.41:910][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007698s)
+[2014.11.02-17.05.41:936][957]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.05.41:938][957]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.05.41:938][957]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.05.41
+[2014.11.02-17.05.41:939][957]LogWorld: Bringing up level for play took: 0.000956
+[2014.11.02-17.05.41:941][957]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.537
+[2014.11.02-17.06.33:775][ 70]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_26) Not registered. Aborting.
+[2014.11.02-17.06.33:810][ 70]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000636CCEA0
+[2014.11.02-17.07.15:350][383]Cmd: TRANSACTION UNDO
+[2014.11.02-17.07.15:350][383]LogEditorTransaction: Undo Move Actors
+[2014.11.02-17.07.15:818][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_27) Not registered. Aborting.
+[2014.11.02-17.07.33:555][468]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Materials'
+[2014.11.02-17.07.41:740][862]LogUObjectHash:Warning: Ambiguous search, could be Model /Game/StarterContent/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BoxBrush_2.Model_51 or Model /Game/StarterContent/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BoxBrush.Model_51
+[2014.11.02-17.08.06:182][120]LogGeometryMode:Warning: Unable to find BoxBrush_2 Brush(s) in new BSP
+[2014.11.02-17.08.06:182][120]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2014.11.02-17.08.14:264][544]LogGeometryMode:Warning: Unable to find BoxBrush_3 Brush(s) in new BSP
+[2014.11.02-17.08.14:264][544]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2014.11.02-17.08.22:341][976]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2014.11.02-17.08.23:447][ 31]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_28) Not registered. Aborting.
+[2014.11.02-17.08.23:767][ 31]LogSavePackage: Save=59.965836ms
+[2014.11.02-17.08.23:767][ 31]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_LightingCE9BE71A471EA6D51183CD9B7EBECE5C.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.02-17.08.23:791][ 31]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.277
+[2014.11.02-17.08.23:809][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.08.24:172][ 31]LogSavePackage: Save=358.542725ms
+[2014.11.02-17.08.24:172][ 31]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterB2280F6F4D08545FF22E98A9F0622C6F.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.08.28:433][243]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.02-17.08.28:484][243]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_29) Not registered. Aborting.
+[2014.11.02-17.08.28:484][243]LogPlayLevel: [PIE] Compiling MyCharacter before PIE...
+[2014.11.02-17.08.28:685][243]LogPlayLevel: PIE:  Blueprint regeneration took 252 ms (1 blueprints)
+[2014.11.02-17.08.28:686][243]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:08:28 PM)
+[2014.11.02-17.08.28:694][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008013s)
+[2014.11.02-17.08.28:694][243]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2014.11.02-17.08.28:694][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008779s)
+[2014.11.02-17.08.28:723][243]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.08.28:725][243]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.08.28:726][243]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.08.28
+[2014.11.02-17.08.28:726][243]LogWorld: Bringing up level for play took: 0.001060
+[2014.11.02-17.08.28:728][243]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.68
+[2014.11.02-17.08.36:108][645]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000615279C0
+[2014.11.02-17.08.46:329][745]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.08.46:330][745]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:08:46 PM)
+[2014.11.02-17.08.46:338][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008074s)
+[2014.11.02-17.08.46:338][745]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2014.11.02-17.08.46:338][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008785s)
+[2014.11.02-17.08.46:364][745]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.08.46:366][745]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.08.46:367][745]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.08.46
+[2014.11.02-17.08.46:367][745]LogWorld: Bringing up level for play took: 0.001117
+[2014.11.02-17.08.46:370][745]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.961
+[2014.11.02-17.09.01:112][553]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000659BEFC0
+[2014.11.02-17.09.30:044][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:044][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:047][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:048][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:048][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:049][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:049][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:050][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:051][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:051][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:052][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.30:052][672]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.31:310][818]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.31:394][828]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.31:394][828]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.31:510][842]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.31:610][854]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.31:611][854]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.09.46:523][626]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.09.46:764][626]BlueprintEditorCompileResults: Info [5801.46] Compile of MyCharacter successful! [in 75 ms]
+[2014.11.02-17.09.47:145][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.09.47:509][664]LogSavePackage: Save=360.202972ms
+[2014.11.02-17.09.47:509][664]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter20DCB3314FB3FAC67F98D7A83F7A9E2E.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.09.48:818][753]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.09.48:818][753]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:09:48 PM)
+[2014.11.02-17.09.48:826][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007633s)
+[2014.11.02-17.09.48:826][753]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2014.11.02-17.09.48:827][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008648s)
+[2014.11.02-17.09.48:856][753]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.09.48:858][753]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.09.48:859][753]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.09.48
+[2014.11.02-17.09.48:859][753]LogWorld: Bringing up level for play took: 0.001318
+[2014.11.02-17.09.48:862][753]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.549
+[2014.11.02-17.10.14:357][181]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_30) Not registered. Aborting.
+[2014.11.02-17.10.14:392][181]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000071E00AE0
+[2014.11.02-17.12.07:260][718]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.12.07:261][718]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:12:07 PM)
+[2014.11.02-17.12.07:269][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008330s)
+[2014.11.02-17.12.07:270][718]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2014.11.02-17.12.07:270][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.009343s)
+[2014.11.02-17.12.07:298][718]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.12.07:300][718]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.12.07:301][718]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.12.07
+[2014.11.02-17.12.07:301][718]LogWorld: Bringing up level for play took: 0.001118
+[2014.11.02-17.12.07:303][718]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.111
+[2014.11.02-17.12.16:105][195]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007258AE80
+[2014.11.02-17.15.02:667][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.15.03:043][745]LogSavePackage: Save=364.033722ms
+[2014.11.02-17.15.03:043][745]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter8FEDFC124A66B65B2F97E7B71DFB3348.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.15.06:785][156]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_31) Not registered. Aborting.
+[2014.11.02-17.15.21:843][787]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.15.22:085][787]BlueprintEditorCompileResults: Info [6136.74] Compile of MyCharacter successful! [in 48 ms]
+[2014.11.02-17.15.48:478][179]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.15.48:706][179]BlueprintEditorCompileResults: Info [6163.37] Compile of MyCharacter successful! [in 47 ms]
+[2014.11.02-17.15.49:352][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.15.49:717][234]LogSavePackage: Save=360.076172ms
+[2014.11.02-17.15.49:717][234]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter99202FB54EDC3C1BF34D71A89DFC93A2.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.15.51:145][328]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.15.51:145][328]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:15:51 PM)
+[2014.11.02-17.15.51:153][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008053s)
+[2014.11.02-17.15.51:154][328]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2014.11.02-17.15.51:154][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008878s)
+[2014.11.02-17.15.51:181][328]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.15.51:183][328]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.15.51:184][328]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.15.51
+[2014.11.02-17.15.51:184][328]LogWorld: Bringing up level for play took: 0.001094
+[2014.11.02-17.15.51:186][328]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.235
+[2014.11.02-17.15.56:024][588]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_32) Not registered. Aborting.
+[2014.11.02-17.15.56:082][589]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000077C38900
+[2014.11.02-17.16.13:362][653]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.16.13:601][653]BlueprintEditorCompileResults: Info [6188.26] Compile of MyCharacter successful! [in 47 ms]
+[2014.11.02-17.16.14:103][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.16.14:464][692]LogSavePackage: Save=356.356110ms
+[2014.11.02-17.16.14:464][692]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterFDFF806649A884EEB9ADDB8724C49E84.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.16.15:670][772]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.16.15:670][772]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:16:15 PM)
+[2014.11.02-17.16.15:677][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007573s)
+[2014.11.02-17.16.15:678][772]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2014.11.02-17.16.15:678][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008382s)
+[2014.11.02-17.16.15:706][772]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.16.15:708][772]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.16.15:709][772]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.16.15
+[2014.11.02-17.16.15:709][772]LogWorld: Bringing up level for play took: 0.001361
+[2014.11.02-17.16.15:711][772]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.29
+[2014.11.02-17.16.20:315][ 29]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_33) Not registered. Aborting.
+[2014.11.02-17.16.20:350][ 29]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000078FD7920
+[2014.11.02-17.16.41:698][131]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.16.41:930][131]BlueprintEditorCompileResults: Info [6216.61] Compile of MyCharacter successful! [in 52 ms]
+[2014.11.02-17.16.42:437][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.16.42:798][179]LogSavePackage: Save=355.515167ms
+[2014.11.02-17.16.42:798][179]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterF4F04C3B4A281292F0227BADEF3718E0.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.16.44:120][263]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.16.44:120][263]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:16:44 PM)
+[2014.11.02-17.16.44:129][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008329s)
+[2014.11.02-17.16.44:130][263]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2014.11.02-17.16.44:130][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.009120s)
+[2014.11.02-17.16.44:156][263]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.16.44:158][263]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.16.44:159][263]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.16.44
+[2014.11.02-17.16.44:160][263]LogWorld: Bringing up level for play took: 0.001356
+[2014.11.02-17.16.44:162][263]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.74
+[2014.11.02-17.16.47:367][441]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_34) Not registered. Aborting.
+[2014.11.02-17.16.47:403][441]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000078FB49A0
+[2014.11.02-17.16.53:389][952]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.16.53:620][952]BlueprintEditorCompileResults: Info [6228.28] Compile of MyCharacter successful! [in 47 ms]
+[2014.11.02-17.16.54:137][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.16.54:494][999]LogSavePackage: Save=351.950073ms
+[2014.11.02-17.16.54:494][999]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterB5A001DA41576A930F0F10943A5384D9.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.16.57:732][170]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.16.57:732][170]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:16:57 PM)
+[2014.11.02-17.16.57:740][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007849s)
+[2014.11.02-17.16.57:741][170]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2014.11.02-17.16.57:741][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008783s)
+[2014.11.02-17.16.57:768][170]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.16.57:770][170]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.16.57:771][170]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.16.57
+[2014.11.02-17.16.57:771][170]LogWorld: Bringing up level for play took: 0.001188
+[2014.11.02-17.16.57:773][170]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.352
+[2014.11.02-17.17.16:071][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_35) Not registered. Aborting.
+[2014.11.02-17.17.16:129][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007B488A40
+[2014.11.02-17.17.26:167][196]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:168][196]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:176][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:177][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:178][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:178][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:179][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:180][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:180][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:181][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:181][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.26:182][197]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.33:568][ 61]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.33:735][ 81]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.33:736][ 81]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.33:802][ 89]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.33:861][ 96]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.33:862][ 96]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.17.43:336][219]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.17.43:589][219]BlueprintEditorCompileResults: Info [6278.26] Compile of MyCharacter successful! [in 81 ms]
+[2014.11.02-17.17.44:207][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.17.44:587][286]LogSavePackage: Save=374.661621ms
+[2014.11.02-17.17.44:587][286]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterC9869CDE4F35D89F613E6F80286D86BF.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.17.46:731][419]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.17.46:731][419]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:17:46 PM)
+[2014.11.02-17.17.46:738][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007413s)
+[2014.11.02-17.17.46:739][419]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2014.11.02-17.17.46:739][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008262s)
+[2014.11.02-17.17.46:766][419]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.17.46:768][419]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.17.46:769][419]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.17.46
+[2014.11.02-17.17.46:769][419]LogWorld: Bringing up level for play took: 0.001159
+[2014.11.02-17.17.46:771][419]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.652
+[2014.11.02-17.17.52:556][728]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_36) Not registered. Aborting.
+[2014.11.02-17.17.52:591][728]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007C4C27A0
+[2014.11.02-17.17.54:811][819]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2014.11.02-17.17.55:781][867]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.02-17.18.02:019][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:020][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:022][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:023][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:023][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:024][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:025][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:025][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:026][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:026][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:027][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.02:027][333]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.04:327][544]LogPropertyNode:Warning: UI Min (0) >= UI Max () for Ranged Numeric
+[2014.11.02-17.18.07:753][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_37) Not registered. Aborting.
+[2014.11.02-17.18.11:325][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.18.11:685][296]LogSavePackage: Save=355.545166ms
+[2014.11.02-17.18.11:685][296]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter862A35AC4B0D46B483B3E3924EAF0092.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.18.12:546][378]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.18.12:687][378]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_38) Not registered. Aborting.
+[2014.11.02-17.18.12:777][378]BlueprintEditorCompileResults: Info [6307.46] Compile of MyCharacter successful! [in 74 ms]
+[2014.11.02-17.18.13:224][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.18.13:595][413]LogSavePackage: Save=365.990570ms
+[2014.11.02-17.18.13:595][413]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterB4A2376C428087CFE0814DAB52843620.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.18.15:168][513]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.18.15:168][513]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:18:15 PM)
+[2014.11.02-17.18.15:176][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007401s)
+[2014.11.02-17.18.15:176][513]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2014.11.02-17.18.15:176][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008201s)
+[2014.11.02-17.18.15:207][513]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.18.15:209][513]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.18.15:210][513]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.18.15
+[2014.11.02-17.18.15:210][513]LogWorld: Bringing up level for play took: 0.001193
+[2014.11.02-17.18.15:212][513]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.212
+[2014.11.02-17.18.27:587][182]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_39) Not registered. Aborting.
+[2014.11.02-17.18.27:623][182]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007A1D1260
+[2014.11.02-17.18.38:792][466]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_40) Not registered. Aborting.
+[2014.11.02-17.18.38:878][466]LogSavePackage: Save=40.358879ms
+[2014.11.02-17.18.38:878][466]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Advanced_LightingC0D157BE4421A2CC5C9616AAE5FC8342.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/StarterContent/Advanced_Lighting.umap'
+[2014.11.02-17.28.39:300][345]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_41) Not registered. Aborting.
+[2014.11.02-17.28.39:337][345]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000033D30C20
+[2014.11.02-17.28.39:340][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.040
+[2014.11.02-17.34.21:209][421]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.34.21:209][421]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:34:21 PM)
+[2014.11.02-17.34.21:217][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008062s)
+[2014.11.02-17.34.21:218][421]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2014.11.02-17.34.21:218][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.009017s)
+[2014.11.02-17.34.21:245][421]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.34.21:246][421]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.34.21:247][421]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.34.21
+[2014.11.02-17.34.21:248][421]LogWorld: Bringing up level for play took: 0.001362
+[2014.11.02-17.34.21:250][421]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.2
+[2014.11.02-17.34.37:367][331]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_42) Not registered. Aborting.
+[2014.11.02-17.34.37:403][331]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002EBC1300
+[2014.11.02-17.36.14:755][913]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.36.14:756][913]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:36:14 PM)
+[2014.11.02-17.36.14:764][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007801s)
+[2014.11.02-17.36.14:764][913]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2014.11.02-17.36.14:764][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008624s)
+[2014.11.02-17.36.14:792][913]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.36.14:794][913]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.36.14:795][913]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.36.14
+[2014.11.02-17.36.14:795][913]LogWorld: Bringing up level for play took: 0.001347
+[2014.11.02-17.36.14:798][913]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.655
+[2014.11.02-17.36.39:698][343]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_43) Not registered. Aborting.
+[2014.11.02-17.36.39:758][344]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000042679A80
+[2014.11.02-17.39.05:053][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_44) Not registered. Aborting.
+[2014.11.02-17.39.32:288][977]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.049
+[2014.11.02-17.39.32:298][977]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/MyCharacter] ([1] browsable assets)...
+[2014.11.02-17.39.32:334][977]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/MyCharacter.MyCharacter]
+[2014.11.02-17.39.32:334][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/MyCharacter]
+[2014.11.02-17.39.32:730][977]LogSavePackage: Save=379.706299ms
+[2014.11.02-17.39.32:730][977]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter_Auto2B4D05DE04CB559B7940E0F9BDD878D9B.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/MyCharacter_Auto2.uasset'
+[2014.11.02-17.39.32:735][977]LogFileHelpers: Auto-saving content packages took 0.446
+[2014.11.02-17.40.02:861][418]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_45) Not registered. Aborting.
+[2014.11.02-17.41.19:651][376]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.41.19:876][376]BlueprintEditorCompileResults: Info [7694.51] Compile of MyCharacter successful! [in 51 ms]
+[2014.11.02-17.41.20:421][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.41.20:812][425]LogSavePackage: Save=366.462219ms
+[2014.11.02-17.41.20:812][425]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter49A443D2488CD22C7647C7B22A565791.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.41.22:900][569]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.41.22:901][569]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:41:22 PM)
+[2014.11.02-17.41.22:910][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008867s)
+[2014.11.02-17.41.22:910][569]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2014.11.02-17.41.22:910][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.009792s)
+[2014.11.02-17.41.22:938][569]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.41.22:940][569]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.41.22:941][569]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.41.22
+[2014.11.02-17.41.22:941][569]LogWorld: Bringing up level for play took: 0.001107
+[2014.11.02-17.41.22:943][569]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.518
+[2014.11.02-17.41.47:100][932]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_46) Not registered. Aborting.
+[2014.11.02-17.41.47:137][932]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005ED2C680
+[2014.11.02-17.42.03:499][662]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.42.03:747][662]BlueprintEditorCompileResults: Info [7738.36] Compile of MyCharacter successful! [in 51 ms]
+[2014.11.02-17.42.04:273][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.42.04:639][705]LogSavePackage: Save=360.545959ms
+[2014.11.02-17.42.04:639][705]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter8CFFD6984049FF4C3B25FE8F09E6FBC8.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.42.06:328][808]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.42.06:329][808]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:42:06 PM)
+[2014.11.02-17.42.06:337][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007932s)
+[2014.11.02-17.42.06:337][808]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2014.11.02-17.42.06:337][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008847s)
+[2014.11.02-17.42.06:368][808]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.42.06:370][808]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.42.06:371][808]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.42.06
+[2014.11.02-17.42.06:371][808]LogWorld: Bringing up level for play took: 0.001113
+[2014.11.02-17.42.06:373][808]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.91
+[2014.11.02-17.42.42:486][845]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_47) Not registered. Aborting.
+[2014.11.02-17.42.42:527][845]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000056E30900
+[2014.11.02-17.43.01:566][798]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-17.43.01:566][798]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-17.43.01:566][798]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-17.43.01:566][798]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CommutativeAssociativeBinaryOperator_701.EdGraphPin_10414"''
+[2014.11.02-17.43.01:567][798]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_VariableGet_547.EdGraphPin_10406"''
+[2014.11.02-17.43.48:178][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.43.48:560][625]LogSavePackage: Save=375.625946ms
+[2014.11.02-17.43.48:560][625]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterF6A355CD435147704BA2A495C5D27A95.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.43.49:167][686]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.43.49:292][686]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_48) Not registered. Aborting.
+[2014.11.02-17.43.49:390][686]BlueprintEditorCompileResults: Info [7844.02] Compile of MyCharacter successful! [in 52 ms]
+[2014.11.02-17.43.49:978][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.43.50:349][740]LogSavePackage: Save=365.684692ms
+[2014.11.02-17.43.50:349][740]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter1EF567A34F7FAA3A00FFC2AC48E6530B.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.43.51:582][796]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.43.51:582][796]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:43:51 PM)
+[2014.11.02-17.43.51:591][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008262s)
+[2014.11.02-17.43.51:591][796]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2014.11.02-17.43.51:592][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.009034s)
+[2014.11.02-17.43.51:620][796]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.43.51:622][796]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.43.51:623][796]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.43.51
+[2014.11.02-17.43.51:623][796]LogWorld: Bringing up level for play took: 0.001159
+[2014.11.02-17.43.51:625][796]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.159
+[2014.11.02-17.43.55:424][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_49) Not registered. Aborting.
+[2014.11.02-17.43.55:461][  4]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000078AF8A40
+[2014.11.02-17.44.05:926][ 60]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.44.06:176][ 60]BlueprintEditorCompileResults: Info [7860.78] Compile of MyCharacter successful! [in 51 ms]
+[2014.11.02-17.44.06:729][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.44.07:094][103]LogSavePackage: Save=360.032867ms
+[2014.11.02-17.44.07:094][103]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter1B2A77464511165ED05967B32758C824.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.44.09:930][279]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-17.44.09:930][279]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 7:44:09 PM)
+[2014.11.02-17.44.09:938][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007593s)
+[2014.11.02-17.44.09:938][279]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2014.11.02-17.44.09:938][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008359s)
+[2014.11.02-17.44.09:967][279]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-17.44.09:969][279]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-17.44.09:970][279]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-18.44.09
+[2014.11.02-17.44.09:970][279]LogWorld: Bringing up level for play took: 0.001199
+[2014.11.02-17.44.09:972][279]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting 0.505
+[2014.11.02-17.44.39:085][941]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_50) Not registered. Aborting.
+[2014.11.02-17.44.39:123][941]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000077E69300
+[2014.11.02-17.44.45:992][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2014.11.02-17.44.47:363][100]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2014.11.02-17.44.48:096][138]Cmd: SELECT NONE
+[2014.11.02-17.44.55:674][636]LogSavePackage: Save=34.166119ms
+[2014.11.02-17.44.55:674][636]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/UEDPCAdvanced_LightingEC31E67C4056DC56311138808D197D13.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/StarterContent/UEDPCAdvanced_Lighting.umap'
+[2014.11.02-17.50.16:759][ 50]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_51) Not registered. Aborting.
+[2014.11.02-17.51.09:527][256]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.044
+[2014.11.02-17.51.09:538][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/MyCharacter] ([1] browsable assets)...
+[2014.11.02-17.51.09:570][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/MyCharacter.MyCharacter]
+[2014.11.02-17.51.09:570][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/MyCharacter]
+[2014.11.02-17.51.09:973][256]LogSavePackage: Save=375.109436ms
+[2014.11.02-17.51.09:973][256]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter_Auto3D42571EF413F0426FD2996B4618CEE43.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/MyCharacter_Auto3.uasset'
+[2014.11.02-17.51.09:976][256]LogFileHelpers: Auto-saving content packages took 0.449
+[2014.11.02-17.51.59:171][ 48]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-17.51.59:172][ 48]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-17.51.59:172][ 48]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-17.52.52:450][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_52) Not registered. Aborting.
+[2014.11.02-17.52.52:538][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.52.52:914][295]LogSavePackage: Save=370.751038ms
+[2014.11.02-17.52.52:914][295]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacterDBFBE69B4CF420B87E27A293EC379EBF.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-17.52.54:000][403]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-17.52.54:200][403]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_53) Not registered. Aborting.
+[2014.11.02-17.52.54:302][403]BlueprintEditorCompileResults: Info [8388.91] Compile of MyCharacter successful! [in 116 ms]
+[2014.11.02-17.52.54:987][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-17.52.55:360][458]LogSavePackage: Save=368.117493ms
+[2014.11.02-17.52.55:360][458]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/
