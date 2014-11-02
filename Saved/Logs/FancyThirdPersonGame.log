@@ -106,4 +106,213 @@ LogInit: Rocket: 1
 [2014.11.02-18.25.47:037][245]LogSavePackage: Save=4.298716ms
 [2014.11.02-18.25.47:037][245]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/PunchingMontage49A08C024A1B0A9E243DBDA1D50227B3.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/PunchingMontage.uasset'
 [2014.11.02-18.26.14:767][730]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
-[2014.11.02-18.26.38:295][8
+[2014.11.02-18.26.38:295][809]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.27.01:096][847]LogEditorTransaction: Undo Edit Section Start Time
+[2014.11.02-18.27.03:775][  7]LogSavePackage: Save=357.632507ms
+[2014.11.02-18.27.03:775][  7]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/PunchingMontage53FE628845A801DD1631EFA0695644F5.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/PunchingMontage.uasset'
+[2014.11.02-18.30.01:098][319]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.30.02:530][447]LogSavePackage: Save=4.229127ms
+[2014.11.02-18.30.02:530][447]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/PunchingMontageA025E3C844B0D837518FB78788D1CA93.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/PunchingMontage.uasset'
+[2014.11.02-18.31.45:574][351]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.31.52:277][668]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.32.02:702][448]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.32.04:468][513]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022E0DD00
+[2014.11.02-18.32.04:468][513]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D2B8C20
+[2014.11.02-18.32.04:472][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.033
+[2014.11.02-18.32.32:288][680]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2014.11.02-18.32.51:420][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:420][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:422][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.51:423][514]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.32.59:032][314]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.33.04:335][867]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2014.11.02-18.33.08:701][298]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.33.13:087][735]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.33.13:087][735]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.33.13:088][735]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.33.13:088][735]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.33.15:221][917]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.33.20:892][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.33.34:750][343]LogEditorTransaction: Undo Move Node
+[2014.11.02-18.33.43:725][238]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.34.15:955][485]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7705E0
+[2014.11.02-18.34.15:999][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyCharacter" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset" SILENT=true
+[2014.11.02-18.34.16:376][485]LogSavePackage: Save=370.378052ms
+[2014.11.02-18.34.16:377][485]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/MyCharacter5A54AA46403CE4BCD5BC9DB37D924C71.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/MyCharacter.uasset'
+[2014.11.02-18.34.19:193][611]BlueprintLog: New page: Compile MyCharacter
+[2014.11.02-18.34.19:305][611]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2014.11.02-18.34.19:399][611]BlueprintEditorCompileResults: Info [0874.72] Compile of MyCharacter successful! [in 54 ms]
+[2014.11.02-18.35.59:222][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2014.11.02-18.35.59:347][423]LogSavePackage: Save=38.310810ms
+[2014.11.02-18.35.59:347][423]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/UEDPCAdvanced_Lighting65C90AEB4703DC29C755BBA210DA4986.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/StarterContent/UEDPCAdvanced_Lighting.umap'
+[2014.11.02-18.37.15:126][879]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2014.11.02-18.37.37:160][186]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2014.11.02-18.37.37:233][186]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.02-18.37.47:101][135]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.40.27:127][634]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.41.00:823][624]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.41.44:668][953]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.41.44:850][953]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2014.11.02-18.41.44:884][953]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000018FABD80
+[2014.11.02-18.41.44:919][953]BlueprintEditorCompileResults: Info [1320.14] Compile of Character_AnimBP successful! [in 11 ms]
+[2014.11.02-18.41.45:934][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.41.46:314][ 42]LogSavePackage: Save=372.932709ms
+[2014.11.02-18.41.46:314][ 42]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP34D71B5E4F75F41290A11C8F3502E02E.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.41.48:046][196]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.41.48:047][196]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.41.48:047][196]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-18.41.51:234][457]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.42.05:660][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.034
+[2014.11.02-18.42.05:669][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Character_AnimBP] ([1] browsable assets)...
+[2014.11.02-18.42.05:702][737]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Character_AnimBP.Character_AnimBP]
+[2014.11.02-18.42.05:702][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_AnimBP]
+[2014.11.02-18.42.06:096][737]LogSavePackage: Save=376.739380ms
+[2014.11.02-18.42.06:096][737]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP_Auto17565D65843B3EE39607677B4286F1502.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/Character_AnimBP_Auto1.uasset'
+[2014.11.02-18.42.06:101][737]LogFileHelpers: Auto-saving content packages took 0.441
+[2014.11.02-18.42.07:821][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.42.07:896][901]LogSavePackage: Save=29.902660ms
+[2014.11.02-18.42.07:896][901]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBPBA8E38B94DED32C32CFCD5B01FB08BF3.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.42.11:173][221]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.42.11:299][221]BlueprintEditorCompileResults: Info [1346.65] Compile of Character_AnimBP successful! [in 10 ms]
+[2014.11.02-18.42.12:219][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.42.12:589][302]LogSavePackage: Save=363.847870ms
+[2014.11.02-18.42.12:589][302]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP7B381F964A35494C1CDC4D9ED8E1C6CA.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.44.02:380][495]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.44.07:013][963]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.44.19:672][986]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.44.22:596][227]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.44.30:592][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.44.30:963][  5]LogSavePackage: Save=365.029633ms
+[2014.11.02-18.44.30:963][  5]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP9004CDF64F7F0AB04FCF3BBA83205992.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.44.37:401][646]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.44.37:536][646]BlueprintEditorCompileResults: Info [1492.87] Compile of Character_AnimBP successful! [in 10 ms]
+[2014.11.02-18.44.38:242][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.44.38:617][704]LogSavePackage: Save=369.675049ms
+[2014.11.02-18.44.38:617][704]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP1D2EE30449E817CAB817F9A4713D470E.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.44.39:456][768]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2014.11.02-18.44.43:863][143]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.45.09:213][853]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.45.30:701][488]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000ECF8680
+[2014.11.02-18.45.30:710][488]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.45.31:123][488]LogSavePackage: Save=351.314819ms
+[2014.11.02-18.45.31:123][488]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/PunchingMontageBA786ED147DCC0FD368A59913C62CEC9.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Animations/PunchingMontage.uasset'
+[2014.11.02-18.46.04:915][801]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.46.28:843][319]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.47.14:594][ 34]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.47.34:471][ 17]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.47.34:592][ 17]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000022E0CEA0
+[2014.11.02-18.47.34:605][ 17]BlueprintEditorCompileResults: Info [1669.94] Compile of Character_AnimBP successful! [in 11 ms]
+[2014.11.02-18.48.06:826][227]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.48.06:961][227]BlueprintEditorCompileResults: Info [1702.29] Compile of Character_AnimBP successful! [in 11 ms]
+[2014.11.02-18.48.07:620][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.48.07:997][278]LogSavePackage: Save=370.615570ms
+[2014.11.02-18.48.07:997][278]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBPE893D8EB4A3C342D098EB2AC7AA2A6B8.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.48.13:391][651]BlueprintLog: New page: Pre-PIE auto-recompile
+[2014.11.02-18.48.13:391][651]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2014.11.02-18.48.13:468][651]LogPlayLevel: PIE:  Blueprint regeneration took 76 ms (1 blueprints)
+[2014.11.02-18.48.13:468][651]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 8:48:13 PM)
+[2014.11.02-18.48.13:475][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007075s)
+[2014.11.02-18.48.13:476][651]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2014.11.02-18.48.13:476][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007832s)
+[2014.11.02-18.48.13:514][651]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-18.48.13:515][651]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-18.48.13:516][651]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-19.48.13
+[2014.11.02-18.48.13:517][651]LogWorld: Bringing up level for play took: 0.001185
+[2014.11.02-18.48.13:519][651]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.051
+[2014.11.02-18.48.17:602][830]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D0F0B80
+[2014.11.02-18.50.37:358][905]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.51.07:333][371]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.51.17:327][191]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.51.17:465][191]BlueprintEditorCompileResults: Info [1892.79] Compile of Character_AnimBP successful! [in 11 ms]
+[2014.11.02-18.52.02:767][435]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.52.02:900][435]BlueprintEditorCompileResults: Info [1938.23] Compile of Character_AnimBP successful! [in 11 ms]
+[2014.11.02-18.52.03:362][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.52.03:744][482]LogSavePackage: Save=374.288910ms
+[2014.11.02-18.52.03:744][482]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBPDF87700845F83DD10F8E0AB39CCA1792.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.52.05:437][591]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-18.52.05:437][591]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 8:52:05 PM)
+[2014.11.02-18.52.05:445][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007672s)
+[2014.11.02-18.52.05:445][591]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2014.11.02-18.52.05:446][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008408s)
+[2014.11.02-18.52.05:484][591]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-18.52.05:486][591]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-18.52.05:487][591]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-19.52.05
+[2014.11.02-18.52.05:487][591]LogWorld: Bringing up level for play took: 0.001159
+[2014.11.02-18.52.05:490][591]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.087
+[2014.11.02-18.52.11:657][847]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000029AD9D00
+[2014.11.02-18.52.21:736][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Advanced_Lighting' took 0.036
+[2014.11.02-18.52.21:745][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/HeroTPP_Skeleton] ([1] browsable assets)...
+[2014.11.02-18.52.21:765][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/HeroTPP_Skeleton]
+[2014.11.02-18.52.21:785][746]LogSavePackage: Save=4.089641ms
+[2014.11.02-18.52.21:785][746]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP_Skeleton_Auto2806A88E645A3D15DC3F271B063A73B9F.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Autosaves/Game/Character/HeroTPP_Skeleton_Auto2.uasset'
+[2014.11.02-18.52.21:790][746]LogFileHelpers: Auto-saving content packages took 0.054
+[2014.11.02-18.52.43:612][776]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.53.06:361][721]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.53.15:712][582]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.53.30:363][806]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.54.21:842][381]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.54.26:877][824]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.54.34:750][533]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.54.38:419][867]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.55.03:659][513]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-18.55.03:659][513]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-18.55.03:660][513]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-18.55.03:660][513]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_IfThenElse_76.EdGraphPin_8368"''
+[2014.11.02-18.55.03:661][513]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_VariableGet_251.EdGraphPin_8369"''
+[2014.11.02-18.55.15:789][514]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.55.18:418][752]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.56.06:578][815]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-18.56.06:735][815]BlueprintEditorCompileResults: Info [2182.04] Compile of Character_AnimBP successful! [in 12 ms]
+[2014.11.02-18.56.07:324][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-18.56.07:702][851]LogSavePackage: Save=370.818451ms
+[2014.11.02-18.56.07:702][851]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP986401804031FA1A9A610185C229C446.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-18.56.09:143][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/HeroTPP_Skeleton" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_Skeleton.uasset" SILENT=true
+[2014.11.02-18.56.09:153][932]LogSavePackage: Save=3.789637ms
+[2014.11.02-18.56.09:153][932]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/HeroTPP_SkeletonA60C43FD4D2388AB5220EB9DA3BE9A89.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/HeroTPP_Skeleton.uasset'
+[2014.11.02-18.56.13:496][ 61]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2014.11.02-18.56.13:497][ 61]PIE: New page: PIE session: Advanced_Lighting (Nov 2, 2014, 8:56:13 PM)
+[2014.11.02-18.56.13:504][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007433s)
+[2014.11.02-18.56.13:505][ 61]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2014.11.02-18.56.13:505][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.008361s)
+[2014.11.02-18.56.13:534][ 61]LogWorld: Game class is 'MyFancyGame_C'
+[2014.11.02-18.56.13:536][ 61]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2014.11.02-18.56.13:537][ 61]LogWorld: Bringing World /Game/StarterContent/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2014.11.02-19.56.13
+[2014.11.02-18.56.13:537][ 61]LogWorld: Bringing up level for play took: 0.001302
+[2014.11.02-18.56.13:540][ 61]PIE: Info Play in editor start time for /Game/StarterContent/UEDPIE_0_Advanced_Lighting -0.043
+[2014.11.02-18.56.42:686][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2014.11.02-18.56.42:721][419]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002F06C720
+[2014.11.02-18.57.25:335][622]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-18.58.57:104][717]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-19.00.02:111][467]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-19.00.02:112][467]LogSlate:Warning: GetFontFace failed to load or process 'Roboto-Regular'
+[2014.11.02-19.00.06:697][937]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-19.00.13:970][756]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-19.00.31:318][675]LogWindowsTextInputMethodSystem:Error: Deactivating a context failed while setting focus to the disabled TSF document manager.
+[2014.11.02-19.00.59:300][766]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2014.11.02-19.01.05:474][412]BlueprintLog: New page: Compile Character_AnimBP
+[2014.11.02-19.01.05:695][412]BlueprintEditorCompileResults: Info [2480.93] Compile of Character_AnimBP successful! [in 13 ms]
+[2014.11.02-19.01.06:770][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_AnimBP" FILE="../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset" SILENT=true
+[2014.11.02-19.01.07:152][524]LogSavePackage: Save=375.741302ms
+[2014.11.02-19.01.07:152][524]LogSavePackage: Moving '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Saved/Character_AnimBP892662D640C0A207AB2ECB988EE1364B.tmp' to '../../../../../Projects/Unreal Engine 4/FancyThirdPersonGame/Content/Character/Character_AnimBP.uasset'
+[2014.11.02-19.01.
